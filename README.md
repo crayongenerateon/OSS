@@ -1,7 +1,6 @@
-# Codeigniter 3 with HMVC
+# CodeIgniter-3.1.6 with HMVC
 
-This is the combination between 3 CodeIgniter and HMVC Modular Extension (created by "wiredesignz").
+This is the combination between 3-3.1.6 CodeIgniter and HMVC Modular Extension (created by "wiredesignz").
+Layout with AdminLTE-2.4.2 
 
-This version is already configured to work with HMVC, Eliminating the need to download the files HMVC on Bitbucket and copy to the Corresponding folders.
-
-Just download this version and start using.
+This Aplication is OSS(one stop service) that handle alot of service in one aplication build by www.RumahCG.com (CV. Rumah Cipta Generasi).
