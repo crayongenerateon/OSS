@@ -95,22 +95,54 @@ if (isset($employe)) {
 
     <div class="row page-header">
         <div class="col-sm-9 col-md-6">
-            <h3 class="page-title" ><?php echo $operation; ?> Employe</h3>
+            <h3 class="page-title" ><b><?php echo $operation; ?> Employe</b></h3>
         </div>
 
     </div>
 
     <?php echo form_open_multipart(current_url()); ?>
-    <div class="row date" >
-        <div class="col-sm-9 col-md-10">
 
-            <?php if (isset($employe)): ?>
+    <!-- /.col -->
+        <div class="col-md-12">
+          <!-- Widget: user widget style 1 -->
+          <div class="box box-widget widget-user">
+            <!-- Add the bg color to the header using any of the bg-* classes -->
+            <div class="widget-user-header bg-aqua-active">
+              <h3 class="widget-user-username"><?php echo $inputNameValue; ?></h3>
+              <h5 class="widget-user-desc">
+                <?php
+                if (!empty($employe)) {
+                  
+                ?>
+                <?php
+                    echo $employe['jabatan_name'] ;
+                }
+                ?>
+
+              </h5>
+            </div>
+            <div class="widget-user-image">
+              
+              <?php if (!empty($employe['employe_images'])) { ?>
+                    <img src="<?php echo upload_url($employe['employe_images']) ?>" class="img-circle"  alt="User Avatar">
+                    <?php 
+                } else { ?>
+                    <img src="<?php echo base_url('media/custom/image/missing-image.png') ?>" class="img-circle"  alt="User Avatar">
+                    <?php 
+                } ?>
+            </div>
+            <div class="box-footer">
+              <div class="row"><hr>
+
+                <div class="col-sm-9 col-md-10">
+                
+            <?php if (isset($employe)) : ?>
                 <input type="hidden" name="employe_id" value="<?php echo $employe['employe_id'] ?>" />
             <?php endif; ?>
             <div class="form-group">
                 <label class="col-sm-3 control-label">NRP *</label>
                 <div class="col-sm-9">
-                    <input name="employe_nrp" type="text" <?php echo (isset($employe))? 'readonly' : '' ?> placeholder="NRP" class="form-control" value="<?php echo $nrp; ?>">
+                    <input name="employe_nrp" type="text" <?php echo (isset($employe)) ? 'readonly' : '' ?> placeholder="NRP" class="form-control" value="<?php echo $nrp; ?>">
                 </div>
             </div>
 
@@ -134,7 +166,7 @@ if (isset($employe)) {
             </div><br>
 
             <div class="form-group">
-                <label class="col-sm-3 control-label">Kewarganegaraan *</label>
+                <label class="col-sm-3 control-label">Kewarganegaraan </label>
                 <div class="col-sm-9">
                  <input type="text" name="employe_citizen" placeholder="Kewarganegaraan" class="form-control" value="<?php echo $inputCitizenValue; ?>"><br>
                  </div>
@@ -148,7 +180,7 @@ if (isset($employe)) {
             </div>
 
              <div class="form-group">
-                <label  class="col-sm-3 control-label">Alamat 2 *</label>
+                <label  class="col-sm-3 control-label">Alamat 2 </label>
                 <div class="col-sm-9">
                 <textarea name="employe_address2" class="form-control" rows="10" placeholder="Alamat 2"><?php echo $inputAddress2Value; ?></textarea><br>
                 </div>
@@ -160,7 +192,7 @@ if (isset($employe)) {
                 <input type="text" name="employe_city" placeholder="Kota" class="form-control" value="<?php echo $inputCityValue; ?>"><br>
                 </div>
             
-                <label  class="col-sm-2 control-label" >Kode Pos *</label>
+                <label  class="col-sm-2 control-label" >Kode Pos </label>
                 <div class="col-sm-2">
                 <input type="text" name="employe_postal_code" placeholder="Kode Pos" class="form-control" value="<?php echo $inputPostalCodeValue; ?>"><br>
                 </div>
@@ -179,7 +211,7 @@ if (isset($employe)) {
                 <input type="text" name="employe_start_work_date" placeholder="Start Work Date" id="datepicker2"  class="form-control" value="<?php echo pretty_date($inputStartWorkDateValue, 'Y/m/d', FALSE); ?>">
                 </div>
 
-                <label class="col-sm-3 control-label">Start Permanent Date *</label>
+                <label class="col-sm-3 control-label">Start Permanent Date </label>
                 <div class="col-sm-3">
                  <input type="text" name="employe_permanent_date" placeholder="Start Permanent Date" id="datepicker3" class="form-control" value="<?php echo pretty_date($inputPermanentDateValue, 'Y/m/d', FALSE); ?>"><br>
                 </div>
@@ -191,7 +223,7 @@ if (isset($employe)) {
                 <input type="text" name="employe_phone" placeholder="No. Telepon" class="form-control" value="<?php echo $inputPhoneValue; ?>"><br>
                 </div>
 
-                <label class="col-sm-1 control-label">Email *</label>
+                <label class="col-sm-1 control-label">Private Email *</label>
                 <div class="col-sm-5">
                 <input type="text" name="employe_email" placeholder="Email" class="form-control" value="<?php echo $inputEmailValue; ?>">
                 <p style="color:#9C9C9C;margin-top: 5px"><i>Contoh : example@yahoo.com / example@example.com</i></p>
@@ -204,16 +236,16 @@ if (isset($employe)) {
                 <select name="kawin_kawin_id" class="form-control">
                     <?php
                     if (!empty($kawin)) {
-                        foreach ($kawin as $row):
+                        foreach ($kawin as $row) :
                             $select = ($row['kawin_id'] == $inputKawinValue) ? 'selected' : NULL;
-                            ?>
+                        ?>
 
                             <option value="<?php echo $row['kawin_id']; ?>" <?php echo $select; ?>> <?php echo $row['kawin_name']; ?></option>
 
                             <?php
-                        endforeach;
-                    }
-                    ?>
+                            endforeach;
+                        }
+                        ?>
                 </select>
                 </div>
 
@@ -222,16 +254,16 @@ if (isset($employe)) {
                 <select name="pendidikan_pendidikan_id" class="form-control">
                     <?php
                     if (!empty($pendidikan)) {
-                        foreach ($pendidikan as $row):
-                            $select = ($row['pendidikan_id'] == $inputPendidikanValue) ? 'selected' : NULL;      
-                            ?>
+                        foreach ($pendidikan as $row) :
+                            $select = ($row['pendidikan_id'] == $inputPendidikanValue) ? 'selected' : NULL;
+                        ?>
 
                             <option value="<?php echo $row['pendidikan_id']; ?>" <?php echo $select; ?>> <?php echo $row['pendidikan_name']; ?></option>
 
                             <?php
-                        endforeach;
-                    }
-                    ?>
+                            endforeach;
+                        }
+                        ?>
                 </select><br>
                 </div>
             </div>
@@ -242,16 +274,16 @@ if (isset($employe)) {
                 <select name="kelamin_kelamin_id" class="form-control">
                     <?php
                     if (!empty($kelamin)) {
-                        foreach ($kelamin as $row):
+                        foreach ($kelamin as $row) :
                             $select = ($row['kelamin_id'] == $inputKelaminValue) ? 'selected' : NULL;
-                            ?>
+                        ?>
 
                             <option value="<?php echo $row['kelamin_id']; ?>" <?php echo $select; ?>> <?php echo $row['kelamin_name']; ?></option>
 
                             <?php
-                        endforeach;
-                    }
-                    ?>
+                            endforeach;
+                        }
+                        ?>
                 </select><br>
                 </div>
            
@@ -261,16 +293,16 @@ if (isset($employe)) {
                 <select name="religion_religion_id" class="form-control">
                     <?php
                     if (!empty($religion)) {
-                        foreach ($religion as $row):
+                        foreach ($religion as $row) :
                             $select = ($row['religion_id'] == $inputReligionValue) ? 'selected' : NULL;
-                            ?>
+                        ?>
 
                             <option value="<?php echo $row['religion_id']; ?>" <?php echo $select; ?>> <?php echo $row['religion_name']; ?></option>
 
                             <?php
-                        endforeach;
-                    }
-                    ?>
+                            endforeach;
+                        }
+                        ?>
                 </select><br>
                 </div>
             </div>
@@ -281,16 +313,16 @@ if (isset($employe)) {
                 <select name="division_division_id" class="form-control">
                     <?php
                     if (!empty($division)) {
-                        foreach ($division as $row):
+                        foreach ($division as $row) :
                             $select = ($row['division_id'] == $inputDivisionValue) ? 'selected' : NULL;
-                            ?>
+                        ?>
 
                             <option value="<?php echo $row['division_id']; ?>" <?php echo $select; ?>> <?php echo $row['division_name']; ?></option>
 
                             <?php
-                        endforeach;
-                    }
-                    ?>
+                            endforeach;
+                        }
+                        ?>
                 </select>
                 </div>
 
@@ -299,16 +331,16 @@ if (isset($employe)) {
                 <select name="departement_departement_id" class="form-control">
                     <?php
                     if (!empty($departement)) {
-                        foreach ($departement as $row):
+                        foreach ($departement as $row) :
                             $select = ($row['departement_id'] == $inputDepartementValue) ? 'selected' : NULL;
-                            ?>
+                        ?>
 
                             <option value="<?php echo $row['departement_id']; ?>" <?php echo $select; ?>> <?php echo $row['departement_name']; ?></option>
 
                             <?php
-                        endforeach;
-                    }
-                    ?>
+                            endforeach;
+                        }
+                        ?>
                 </select><br>
                 </div>
             </div>
@@ -319,16 +351,16 @@ if (isset($employe)) {
                 <select name="jabatan_jabatan_id" class="form-control">
                     <?php
                     if (!empty($jabatan)) {
-                        foreach ($jabatan as $row):
+                        foreach ($jabatan as $row) :
                             $select = ($row['jabatan_id'] == $inputJabatanValue) ? 'selected' : NULL;
-                            ?>
+                        ?>
 
                             <option value="<?php echo $row['jabatan_id']; ?>" <?php echo $select; ?>> <?php echo $row['jabatan_name']; ?></option>
 
                             <?php
-                        endforeach;
-                    }
-                    ?>
+                            endforeach;
+                        }
+                        ?>
                 </select>
                 </div>
 
@@ -338,53 +370,69 @@ if (isset($employe)) {
                 <select name="status_status_id" class="form-control">
                     <?php
                     if (!empty($status)) {
-                        foreach ($status as $row):
+                        foreach ($status as $row) :
                             $select = ($row['status_id'] == $inputStatusValue) ? 'selected' : NULL;
-                            ?>
+                        ?>
 
                             <option value="<?php echo $row['status_id']; ?>" <?php echo $select; ?>> <?php echo $row['status_name']; ?></option>
 
                             <?php
-                        endforeach;
-                    }
-                    ?>
+                            endforeach;
+                        }
+                        ?>
                 </select><br>
                 </div>
             </div>
 
              <div class="form-group">
-                <label class="col-sm-3 control-label" >Superior *</label>
+                <label class="col-sm-3 control-label" >Superior </label>
                 
 
-                <div class="col-sm-3">
+                <div class="col-sm-9">
                 <input type="hidden" name="employe_superior" value="0" >
-                <input type="checkbox" class="flat-red"  name="employe_superior" value="1"   <?php if($inputSuperiorValue==1){echo "checked";}  ?> /> </br>
+                <input type="checkbox" class="flat-red"  name="employe_superior" value="1"   
+                <?php if ($inputSuperiorValue == 1) {
+                    echo "checked";
+                    } ?> /> </br>
                 </div>
             </div>
 
 
 
-            
-            <p style="color:#9C9C9C;margin-top: 5px"><i>*) Field Wajib Diisi</i></p>
+            <div class="form-group">
+                <div class="col-sm-12">
+                <p style="color:#9C9C9C;margin-top: 5px"><i><b>*) Field Wajib Diisi</b></i></p>
+                </div>
+            </div>
         </div>
-        <div class="col-sm-9 col-md-1">
+
+        <div class="col-sm-9 col-md-2">
             <div class="form-group">
                 <button name="action" type="submit" value="save" class="btn btn-success"><i class="ion-checkmark"></i> Simpan</button>
                 <a href="<?php echo site_url('employe'); ?>" class="btn btn-info"><i class="ion-arrow-left-a"></i> Batal</a>
-                <?php if (isset($employe)): ?>
+                <?php if (isset($employe)) : ?>
                     
                         <a style="margin-top: 3px" href="<?php echo site_url('employe/delete/' . $employe['employe_id']); ?>" class="btn btn-danger"><i class="ion-trash-a"></i> Hapus</a>
                   
                 <?php endif; ?>
 
-                <br>
-                 <?php if (isset($employe)): ?>
-                    <?php foreach ($image as $key): ?>
-                        <a target="_blank" href="<?php echo upload_url($key['employe_images_path']) ?>"><?php echo $key['employe_images_path'] ?></a>
-                        <br>
-                    <?php endforeach ?>
+                <br><hr>
+                <!-- <?php if (!empty($employe['employe_images'])) { ?>
+                    <img src="<?php echo upload_url($employe['employe_images']) ?>" class="img-responsive avatar">
+                    <?php 
+                } else { ?>
+                    <img src="<?php echo base_url('media/custom/image/missing-image.png') ?>" class="img-responsive avatar">
+                    <?php 
+                } ?>
 
-                <?php endif ?>
+                <br>
+                <?php if (isset($employe)) : ?>
+                   <?php foreach ($image as $key) : ?>
+                       <a target="_blank" href="<?php echo upload_url($key['employe_images_path']) ?>"><?php echo $key['employe_images_path'] ?></a>
+                       <br>
+                <?php endforeach ?>
+
+                <?php endif ?> -->
 
                 <label>Upload File</label>
                 <div id="p_upload">
@@ -397,6 +445,16 @@ if (isset($employe)) {
         </div>
     </div>
     <?php echo form_close(); ?>
+                
+              </div>
+              <!-- /.row -->
+            </div>
+          </div>
+          <!-- /.widget-user -->
+        </div>
+
+   
+        
 </div>
 
 <?php if (isset($employe)): ?>

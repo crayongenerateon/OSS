@@ -1,2 +1,2 @@
-application/logs/*.php
-application/logs/log-2017-11-24.php
+application/logs/*
+!application/logs/index.html
