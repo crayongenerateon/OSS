@@ -1,0 +1,83 @@
+@font-face {
+   font-family: Arvo;
+   font-style: normal;
+   src: url(../fonts/Arvo-Regular.ttf);
+}
+@font-face {
+   font-family: Open Sans Regular;
+   font-style: normal;
+   src: url(../fonts/OpenSans-Regular.ttf);
+}
+@font-face {
+   font-family: Open Sans Light;
+   font-style: normal;
+   src: url(../fonts/OpenSans-Light.ttf);
+}
+
+html, body {
+	background-color: #37ae90;
+	color: #000;
+	font-family: 'Open Sans Regular', sans-serif;
+}
+
+.login {
+	padding: 20px;
+	margin-top: 15%;
+	margin-bottom: 10%;
+	min-height: 300px;
+}
+.admin {
+	text-align: center;
+    font-family: Arvo;
+    margin-bottom: 30px;
+    color: #3b444f;
+}
+.btn-sunny {
+    font-family: Arvo;
+	border-radius: 0px;
+	padding: 20px;
+	color: #fff;
+	background-color: #3b444f;
+	border-bottom: 5px solid white;
+}
+.btn-sunny:hover, .btn-sky.active:focus, .btn-sunny:focus, .open>.dropdown-toggle.btn-sunny {
+	color: #3b444f;
+	background-color: white;
+	border-bottom: 5px solid #3b444f;
+	outline: none;
+}
+.btn-sunny:active, .btn-sunny.active {
+	color: #3b444f;
+	background-color: white;
+	border-bottom: 5px solid #3b444f;
+	outline: none;
+}
+.navzu {
+	background-color: transparent;
+	color: white;
+    font-family: Arvo;
+	border: none;
+}
+/*CUSTOM*/
+
+::selection {
+	color: white;
+    background: #3b444f; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+	color: white;
+    background: #3b444f; /* Gecko Browsers */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

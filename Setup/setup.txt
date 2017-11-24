@@ -1,0 +1,4 @@
+1. a2enmod rewrite
+2. chown -R adi:adi /var/www/html
+3. find /var/www/html -type d -exec chmod 777 {} \;
+4. find /var/www/html -type f -exec chmod 777 {} \;
