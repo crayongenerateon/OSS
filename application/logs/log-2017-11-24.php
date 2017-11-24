@@ -10567,3 +10567,1800 @@ DEBUG - 2017-11-24 10:49:07 --> Global POST, GET and COOKIE data sanitized
 INFO - 2017-11-24 10:49:07 --> Input Class Initialized
 INFO - 2017-11-24 10:49:07 --> Language Class Initialized
 ERROR - 2017-11-24 10:49:07 --> 404 Page Not Found: ../modules/iventory/controllers//index
+INFO - 2017-11-24 13:47:48 --> Config Class Initialized
+INFO - 2017-11-24 13:47:48 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:47:48 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:47:48 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:47:48 --> URI Class Initialized
+INFO - 2017-11-24 13:47:48 --> Router Class Initialized
+INFO - 2017-11-24 13:47:48 --> Output Class Initialized
+INFO - 2017-11-24 13:47:48 --> Security Class Initialized
+DEBUG - 2017-11-24 13:47:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:47:48 --> Input Class Initialized
+INFO - 2017-11-24 13:47:48 --> Language Class Initialized
+INFO - 2017-11-24 13:47:48 --> Language Class Initialized
+INFO - 2017-11-24 13:47:48 --> Config Class Initialized
+INFO - 2017-11-24 13:47:48 --> Loader Class Initialized
+INFO - 2017-11-24 13:47:48 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:47:48 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:47:48 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:47:48 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:47:48 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:47:48 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:47:48 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:47:48 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:47:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:47:49 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:47:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:47:49 --> Pagination Class Initialized
+INFO - 2017-11-24 13:47:49 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:47:49 --> Controller Class Initialized
+INFO - 2017-11-24 13:47:49 --> Model Class Initialized
+DEBUG - 2017-11-24 13:47:49 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:47:49 --> Model Class Initialized
+DEBUG - 2017-11-24 13:47:49 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:47:49 --> Model Class Initialized
+DEBUG - 2017-11-24 13:47:49 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:47:49 --> Model Class Initialized
+DEBUG - 2017-11-24 13:47:49 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:47:49 --> Model Class Initialized
+DEBUG - 2017-11-24 13:47:49 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:47:49 --> File loaded: /var/www/html/osstest/application/modules/iventory/views/iventoryit_list.php
+DEBUG - 2017-11-24 13:47:49 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:47:49 --> Final output sent to browser
+DEBUG - 2017-11-24 13:47:49 --> Total execution time: 1.2765
+INFO - 2017-11-24 13:47:49 --> Config Class Initialized
+INFO - 2017-11-24 13:47:49 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:47:49 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:47:49 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:47:49 --> URI Class Initialized
+INFO - 2017-11-24 13:47:49 --> Router Class Initialized
+INFO - 2017-11-24 13:47:49 --> Output Class Initialized
+INFO - 2017-11-24 13:47:49 --> Security Class Initialized
+DEBUG - 2017-11-24 13:47:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:47:49 --> Input Class Initialized
+INFO - 2017-11-24 13:47:49 --> Language Class Initialized
+INFO - 2017-11-24 13:47:49 --> Language Class Initialized
+INFO - 2017-11-24 13:47:49 --> Config Class Initialized
+INFO - 2017-11-24 13:47:49 --> Loader Class Initialized
+INFO - 2017-11-24 13:47:49 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:47:49 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:47:49 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:47:49 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:47:49 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:47:49 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:47:49 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:47:49 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:47:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:47:49 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:47:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:47:49 --> Pagination Class Initialized
+INFO - 2017-11-24 13:47:49 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:47:49 --> Controller Class Initialized
+INFO - 2017-11-24 13:47:49 --> Model Class Initialized
+DEBUG - 2017-11-24 13:47:49 --> File loaded: /var/www/html/osstest/application/modules/user/models/User_model.php
+INFO - 2017-11-24 13:47:49 --> Model Class Initialized
+DEBUG - 2017-11-24 13:47:49 --> File loaded: /var/www/html/osstest/application/modules/user/views/login.php
+INFO - 2017-11-24 13:47:49 --> Final output sent to browser
+DEBUG - 2017-11-24 13:47:49 --> Total execution time: 0.0155
+INFO - 2017-11-24 13:47:53 --> Config Class Initialized
+INFO - 2017-11-24 13:47:53 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:47:53 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:47:53 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:47:53 --> URI Class Initialized
+INFO - 2017-11-24 13:47:53 --> Router Class Initialized
+INFO - 2017-11-24 13:47:53 --> Output Class Initialized
+INFO - 2017-11-24 13:47:53 --> Security Class Initialized
+DEBUG - 2017-11-24 13:47:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:47:53 --> Input Class Initialized
+INFO - 2017-11-24 13:47:53 --> Language Class Initialized
+INFO - 2017-11-24 13:47:53 --> Language Class Initialized
+INFO - 2017-11-24 13:47:53 --> Config Class Initialized
+INFO - 2017-11-24 13:47:53 --> Loader Class Initialized
+INFO - 2017-11-24 13:47:53 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:47:53 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:47:53 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:47:53 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:47:53 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:47:53 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:47:53 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:47:53 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:47:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:47:53 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:47:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:47:53 --> Pagination Class Initialized
+INFO - 2017-11-24 13:47:53 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:47:53 --> Controller Class Initialized
+INFO - 2017-11-24 13:47:53 --> Model Class Initialized
+DEBUG - 2017-11-24 13:47:53 --> File loaded: /var/www/html/osstest/application/modules/user/models/User_model.php
+INFO - 2017-11-24 13:47:53 --> Model Class Initialized
+INFO - 2017-11-24 13:47:53 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2017-11-24 13:47:54 --> Final output sent to browser
+DEBUG - 2017-11-24 13:47:54 --> Total execution time: 0.6061
+INFO - 2017-11-24 13:47:54 --> Config Class Initialized
+INFO - 2017-11-24 13:47:54 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:47:54 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:47:54 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:47:54 --> URI Class Initialized
+INFO - 2017-11-24 13:47:54 --> Router Class Initialized
+INFO - 2017-11-24 13:47:54 --> Output Class Initialized
+INFO - 2017-11-24 13:47:54 --> Security Class Initialized
+DEBUG - 2017-11-24 13:47:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:47:54 --> Input Class Initialized
+INFO - 2017-11-24 13:47:54 --> Language Class Initialized
+INFO - 2017-11-24 13:47:54 --> Language Class Initialized
+INFO - 2017-11-24 13:47:54 --> Config Class Initialized
+INFO - 2017-11-24 13:47:54 --> Loader Class Initialized
+INFO - 2017-11-24 13:47:54 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:47:54 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:47:54 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:47:54 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:47:54 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:47:54 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:47:54 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:47:54 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:47:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:47:54 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:47:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:47:54 --> Pagination Class Initialized
+INFO - 2017-11-24 13:47:54 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:47:54 --> Controller Class Initialized
+INFO - 2017-11-24 13:47:54 --> Model Class Initialized
+DEBUG - 2017-11-24 13:47:54 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:47:54 --> Model Class Initialized
+DEBUG - 2017-11-24 13:47:54 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:47:54 --> Model Class Initialized
+DEBUG - 2017-11-24 13:47:54 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:47:54 --> Model Class Initialized
+DEBUG - 2017-11-24 13:47:54 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:47:54 --> Model Class Initialized
+DEBUG - 2017-11-24 13:47:54 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:47:54 --> File loaded: /var/www/html/osstest/application/modules/iventory/views/iventoryit_list.php
+DEBUG - 2017-11-24 13:47:54 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:47:54 --> Final output sent to browser
+DEBUG - 2017-11-24 13:47:54 --> Total execution time: 0.0193
+INFO - 2017-11-24 13:47:54 --> Config Class Initialized
+INFO - 2017-11-24 13:47:54 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:47:54 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:47:54 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:47:54 --> URI Class Initialized
+INFO - 2017-11-24 13:47:54 --> Router Class Initialized
+INFO - 2017-11-24 13:47:54 --> Output Class Initialized
+INFO - 2017-11-24 13:47:54 --> Security Class Initialized
+DEBUG - 2017-11-24 13:47:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:47:54 --> Input Class Initialized
+INFO - 2017-11-24 13:47:54 --> Language Class Initialized
+ERROR - 2017-11-24 13:47:54 --> 404 Page Not Found: ../modules/iventory/controllers//index
+INFO - 2017-11-24 13:47:54 --> Config Class Initialized
+INFO - 2017-11-24 13:47:54 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:47:54 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:47:54 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:47:54 --> URI Class Initialized
+INFO - 2017-11-24 13:47:54 --> Router Class Initialized
+INFO - 2017-11-24 13:47:54 --> Output Class Initialized
+INFO - 2017-11-24 13:47:54 --> Security Class Initialized
+DEBUG - 2017-11-24 13:47:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:47:54 --> Input Class Initialized
+INFO - 2017-11-24 13:47:54 --> Language Class Initialized
+ERROR - 2017-11-24 13:47:54 --> 404 Page Not Found: ../modules/iventory/controllers//index
+INFO - 2017-11-24 13:48:00 --> Config Class Initialized
+INFO - 2017-11-24 13:48:00 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:00 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:00 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:00 --> URI Class Initialized
+INFO - 2017-11-24 13:48:00 --> Router Class Initialized
+INFO - 2017-11-24 13:48:00 --> Output Class Initialized
+INFO - 2017-11-24 13:48:00 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:00 --> Input Class Initialized
+INFO - 2017-11-24 13:48:00 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:00 --> 404 Page Not Found: /index
+INFO - 2017-11-24 13:48:05 --> Config Class Initialized
+INFO - 2017-11-24 13:48:05 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:05 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:05 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:05 --> URI Class Initialized
+INFO - 2017-11-24 13:48:05 --> Router Class Initialized
+INFO - 2017-11-24 13:48:05 --> Output Class Initialized
+INFO - 2017-11-24 13:48:05 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:05 --> Input Class Initialized
+INFO - 2017-11-24 13:48:05 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:05 --> 404 Page Not Found: /index
+INFO - 2017-11-24 13:48:05 --> Config Class Initialized
+INFO - 2017-11-24 13:48:05 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:05 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:05 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:05 --> URI Class Initialized
+INFO - 2017-11-24 13:48:05 --> Router Class Initialized
+INFO - 2017-11-24 13:48:05 --> Output Class Initialized
+INFO - 2017-11-24 13:48:05 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:05 --> Input Class Initialized
+INFO - 2017-11-24 13:48:05 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:05 --> 404 Page Not Found: /index
+INFO - 2017-11-24 13:48:06 --> Config Class Initialized
+INFO - 2017-11-24 13:48:06 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:06 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:06 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:06 --> URI Class Initialized
+INFO - 2017-11-24 13:48:06 --> Router Class Initialized
+INFO - 2017-11-24 13:48:06 --> Output Class Initialized
+INFO - 2017-11-24 13:48:06 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:06 --> Input Class Initialized
+INFO - 2017-11-24 13:48:06 --> Language Class Initialized
+INFO - 2017-11-24 13:48:06 --> Language Class Initialized
+INFO - 2017-11-24 13:48:06 --> Config Class Initialized
+INFO - 2017-11-24 13:48:06 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:06 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:06 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:06 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:06 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:06 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:06 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:06 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:06 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:06 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:06 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:06 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:06 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:06 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:06 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:48:06 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:06 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:06 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:06 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:06 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:06 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:06 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:06 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:48:06 --> File loaded: /var/www/html/osstest/application/modules/iventory/views/iventoryit_list.php
+DEBUG - 2017-11-24 13:48:06 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:48:06 --> Final output sent to browser
+DEBUG - 2017-11-24 13:48:06 --> Total execution time: 0.1550
+INFO - 2017-11-24 13:48:07 --> Config Class Initialized
+INFO - 2017-11-24 13:48:07 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:07 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:07 --> URI Class Initialized
+INFO - 2017-11-24 13:48:07 --> Router Class Initialized
+INFO - 2017-11-24 13:48:07 --> Output Class Initialized
+INFO - 2017-11-24 13:48:07 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:07 --> Input Class Initialized
+INFO - 2017-11-24 13:48:07 --> Language Class Initialized
+INFO - 2017-11-24 13:48:07 --> Language Class Initialized
+INFO - 2017-11-24 13:48:07 --> Config Class Initialized
+INFO - 2017-11-24 13:48:07 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:07 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:07 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:07 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:07 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:07 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:07 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:07 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:07 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:07 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:07 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:07 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:07 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:07 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:48:07 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:07 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:07 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:07 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:48:07 --> File loaded: /var/www/html/osstest/application/modules/iventory/views/iventoryit_list.php
+DEBUG - 2017-11-24 13:48:07 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:48:07 --> Final output sent to browser
+DEBUG - 2017-11-24 13:48:07 --> Total execution time: 0.0085
+INFO - 2017-11-24 13:48:07 --> Config Class Initialized
+INFO - 2017-11-24 13:48:07 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:07 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:07 --> URI Class Initialized
+INFO - 2017-11-24 13:48:07 --> Router Class Initialized
+INFO - 2017-11-24 13:48:07 --> Output Class Initialized
+INFO - 2017-11-24 13:48:07 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:07 --> Input Class Initialized
+INFO - 2017-11-24 13:48:07 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:07 --> 404 Page Not Found: ../modules/iventory/controllers//index
+INFO - 2017-11-24 13:48:07 --> Config Class Initialized
+INFO - 2017-11-24 13:48:07 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:07 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:07 --> URI Class Initialized
+INFO - 2017-11-24 13:48:07 --> Router Class Initialized
+INFO - 2017-11-24 13:48:07 --> Output Class Initialized
+INFO - 2017-11-24 13:48:07 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:07 --> Input Class Initialized
+INFO - 2017-11-24 13:48:07 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:07 --> 404 Page Not Found: ../modules/iventory/controllers//index
+INFO - 2017-11-24 13:48:07 --> Config Class Initialized
+INFO - 2017-11-24 13:48:07 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:07 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:07 --> URI Class Initialized
+INFO - 2017-11-24 13:48:07 --> Router Class Initialized
+INFO - 2017-11-24 13:48:07 --> Output Class Initialized
+INFO - 2017-11-24 13:48:07 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:07 --> Input Class Initialized
+INFO - 2017-11-24 13:48:07 --> Language Class Initialized
+INFO - 2017-11-24 13:48:07 --> Language Class Initialized
+INFO - 2017-11-24 13:48:07 --> Config Class Initialized
+INFO - 2017-11-24 13:48:07 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:07 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:07 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:07 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:07 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:07 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:07 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:07 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:07 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:07 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:07 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:07 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:07 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:07 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:48:07 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:07 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:07 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:07 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:48:07 --> File loaded: /var/www/html/osstest/application/modules/iventory/views/iventoryit_list.php
+DEBUG - 2017-11-24 13:48:07 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:48:07 --> Final output sent to browser
+DEBUG - 2017-11-24 13:48:07 --> Total execution time: 0.0104
+INFO - 2017-11-24 13:48:07 --> Config Class Initialized
+INFO - 2017-11-24 13:48:07 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:07 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:07 --> URI Class Initialized
+INFO - 2017-11-24 13:48:07 --> Router Class Initialized
+INFO - 2017-11-24 13:48:07 --> Output Class Initialized
+INFO - 2017-11-24 13:48:07 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:07 --> Input Class Initialized
+INFO - 2017-11-24 13:48:07 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:07 --> 404 Page Not Found: ../modules/iventory/controllers//index
+INFO - 2017-11-24 13:48:07 --> Config Class Initialized
+INFO - 2017-11-24 13:48:07 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:07 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:07 --> URI Class Initialized
+INFO - 2017-11-24 13:48:07 --> Router Class Initialized
+INFO - 2017-11-24 13:48:07 --> Output Class Initialized
+INFO - 2017-11-24 13:48:07 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:07 --> Input Class Initialized
+INFO - 2017-11-24 13:48:07 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:07 --> 404 Page Not Found: ../modules/iventory/controllers//index
+INFO - 2017-11-24 13:48:10 --> Config Class Initialized
+INFO - 2017-11-24 13:48:10 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:10 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:10 --> URI Class Initialized
+INFO - 2017-11-24 13:48:10 --> Router Class Initialized
+INFO - 2017-11-24 13:48:10 --> Output Class Initialized
+INFO - 2017-11-24 13:48:10 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:10 --> Input Class Initialized
+INFO - 2017-11-24 13:48:10 --> Language Class Initialized
+INFO - 2017-11-24 13:48:10 --> Language Class Initialized
+INFO - 2017-11-24 13:48:10 --> Config Class Initialized
+INFO - 2017-11-24 13:48:10 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:10 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:10 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:10 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:10 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:10 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:10 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:10 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:10 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:10 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:10 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:10 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:10 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:10 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:48:10 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:10 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:10 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:10 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:48:10 --> File loaded: /var/www/html/osstest/application/views/admin/tinymce_init.php
+DEBUG - 2017-11-24 13:48:10 --> File loaded: /var/www/html/osstest/application/modules/iventory/views/iventoryit_add.php
+DEBUG - 2017-11-24 13:48:10 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:48:10 --> Final output sent to browser
+DEBUG - 2017-11-24 13:48:10 --> Total execution time: 0.0484
+INFO - 2017-11-24 13:48:10 --> Config Class Initialized
+INFO - 2017-11-24 13:48:10 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:10 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:10 --> URI Class Initialized
+INFO - 2017-11-24 13:48:10 --> Router Class Initialized
+INFO - 2017-11-24 13:48:10 --> Output Class Initialized
+INFO - 2017-11-24 13:48:10 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:10 --> Input Class Initialized
+INFO - 2017-11-24 13:48:10 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:10 --> 404 Page Not Found: /index
+INFO - 2017-11-24 13:48:10 --> Config Class Initialized
+INFO - 2017-11-24 13:48:10 --> Config Class Initialized
+INFO - 2017-11-24 13:48:10 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:10 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:10 --> URI Class Initialized
+INFO - 2017-11-24 13:48:10 --> Router Class Initialized
+INFO - 2017-11-24 13:48:10 --> Output Class Initialized
+INFO - 2017-11-24 13:48:10 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:10 --> Input Class Initialized
+INFO - 2017-11-24 13:48:10 --> Language Class Initialized
+INFO - 2017-11-24 13:48:10 --> Language Class Initialized
+INFO - 2017-11-24 13:48:10 --> Config Class Initialized
+INFO - 2017-11-24 13:48:10 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:10 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:10 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:10 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:10 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:10 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:10 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:10 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:10 --> Database Driver Class Initialized
+INFO - 2017-11-24 13:48:10 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> UTF-8 Support Enabled
+DEBUG - 2017-11-24 13:48:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:10 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:10 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:10 --> URI Class Initialized
+INFO - 2017-11-24 13:48:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:10 --> Router Class Initialized
+INFO - 2017-11-24 13:48:10 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:10 --> Output Class Initialized
+INFO - 2017-11-24 13:48:10 --> Security Class Initialized
+INFO - 2017-11-24 13:48:10 --> Form Validation Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:10 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:10 --> Input Class Initialized
+INFO - 2017-11-24 13:48:10 --> Model Class Initialized
+INFO - 2017-11-24 13:48:10 --> Language Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:48:10 --> Model Class Initialized
+INFO - 2017-11-24 13:48:10 --> Language Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:10 --> Config Class Initialized
+INFO - 2017-11-24 13:48:10 --> Model Class Initialized
+INFO - 2017-11-24 13:48:10 --> Loader Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:10 --> Model Class Initialized
+INFO - 2017-11-24 13:48:10 --> Helper loaded: url_helper
+DEBUG - 2017-11-24 13:48:10 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:10 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:10 --> Model Class Initialized
+INFO - 2017-11-24 13:48:10 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:10 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:10 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:10 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:10 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:10 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:10 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:10 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:10 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:10 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:10 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:48:10 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:10 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:10 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:10 --> Model Class Initialized
+INFO - 2017-11-24 13:48:10 --> Config Class Initialized
+INFO - 2017-11-24 13:48:10 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:10 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:10 --> URI Class Initialized
+INFO - 2017-11-24 13:48:10 --> Router Class Initialized
+INFO - 2017-11-24 13:48:10 --> Output Class Initialized
+INFO - 2017-11-24 13:48:10 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:10 --> Input Class Initialized
+INFO - 2017-11-24 13:48:10 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:10 --> 404 Page Not Found: /index
+INFO - 2017-11-24 13:48:10 --> Config Class Initialized
+INFO - 2017-11-24 13:48:10 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:10 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:10 --> URI Class Initialized
+INFO - 2017-11-24 13:48:10 --> Router Class Initialized
+INFO - 2017-11-24 13:48:10 --> Output Class Initialized
+INFO - 2017-11-24 13:48:10 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:10 --> Input Class Initialized
+INFO - 2017-11-24 13:48:10 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:10 --> 404 Page Not Found: ../modules/iventory/controllers/Iventoryit/iventoryit_add
+INFO - 2017-11-24 13:48:10 --> Config Class Initialized
+INFO - 2017-11-24 13:48:10 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:10 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:10 --> URI Class Initialized
+INFO - 2017-11-24 13:48:10 --> Router Class Initialized
+INFO - 2017-11-24 13:48:10 --> Output Class Initialized
+INFO - 2017-11-24 13:48:10 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:10 --> Input Class Initialized
+INFO - 2017-11-24 13:48:10 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:10 --> 404 Page Not Found: ../modules/iventory/controllers/Iventoryit/iventoryit_add
+INFO - 2017-11-24 13:48:10 --> Config Class Initialized
+INFO - 2017-11-24 13:48:10 --> Config Class Initialized
+INFO - 2017-11-24 13:48:10 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:10 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:10 --> URI Class Initialized
+INFO - 2017-11-24 13:48:10 --> Router Class Initialized
+INFO - 2017-11-24 13:48:10 --> Output Class Initialized
+INFO - 2017-11-24 13:48:10 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:10 --> Input Class Initialized
+INFO - 2017-11-24 13:48:10 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:10 --> 404 Page Not Found: /index
+INFO - 2017-11-24 13:48:10 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:10 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:10 --> URI Class Initialized
+INFO - 2017-11-24 13:48:10 --> Router Class Initialized
+INFO - 2017-11-24 13:48:10 --> Output Class Initialized
+INFO - 2017-11-24 13:48:10 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:10 --> Input Class Initialized
+INFO - 2017-11-24 13:48:10 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:10 --> 404 Page Not Found: /index
+INFO - 2017-11-24 13:48:24 --> Config Class Initialized
+INFO - 2017-11-24 13:48:24 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:24 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:24 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:24 --> URI Class Initialized
+INFO - 2017-11-24 13:48:24 --> Router Class Initialized
+INFO - 2017-11-24 13:48:24 --> Output Class Initialized
+INFO - 2017-11-24 13:48:24 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:24 --> Input Class Initialized
+INFO - 2017-11-24 13:48:24 --> Language Class Initialized
+INFO - 2017-11-24 13:48:24 --> Language Class Initialized
+INFO - 2017-11-24 13:48:24 --> Config Class Initialized
+INFO - 2017-11-24 13:48:24 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:24 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:24 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:24 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:24 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:24 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:24 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:24 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:24 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:24 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:24 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:24 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:24 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:24 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:24 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:48:24 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:24 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:24 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:24 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:24 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:24 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:24 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:24 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:48:24 --> File loaded: /var/www/html/osstest/application/modules/iventory/views/iventoryit_list.php
+DEBUG - 2017-11-24 13:48:24 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:48:24 --> Final output sent to browser
+DEBUG - 2017-11-24 13:48:24 --> Total execution time: 0.0450
+INFO - 2017-11-24 13:48:24 --> Config Class Initialized
+INFO - 2017-11-24 13:48:24 --> Hooks Class Initialized
+INFO - 2017-11-24 13:48:24 --> Config Class Initialized
+INFO - 2017-11-24 13:48:24 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:24 --> UTF-8 Support Enabled
+DEBUG - 2017-11-24 13:48:24 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:24 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:24 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:24 --> URI Class Initialized
+INFO - 2017-11-24 13:48:24 --> URI Class Initialized
+INFO - 2017-11-24 13:48:24 --> Router Class Initialized
+INFO - 2017-11-24 13:48:24 --> Router Class Initialized
+INFO - 2017-11-24 13:48:24 --> Output Class Initialized
+INFO - 2017-11-24 13:48:24 --> Output Class Initialized
+INFO - 2017-11-24 13:48:24 --> Security Class Initialized
+INFO - 2017-11-24 13:48:24 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:24 --> Input Class Initialized
+DEBUG - 2017-11-24 13:48:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:24 --> Language Class Initialized
+INFO - 2017-11-24 13:48:24 --> Input Class Initialized
+ERROR - 2017-11-24 13:48:24 --> 404 Page Not Found: ../modules/iventory/controllers//index
+INFO - 2017-11-24 13:48:24 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:24 --> 404 Page Not Found: ../modules/iventory/controllers//index
+INFO - 2017-11-24 13:48:27 --> Config Class Initialized
+INFO - 2017-11-24 13:48:27 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:27 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:27 --> URI Class Initialized
+INFO - 2017-11-24 13:48:27 --> Router Class Initialized
+INFO - 2017-11-24 13:48:27 --> Output Class Initialized
+INFO - 2017-11-24 13:48:27 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:27 --> Input Class Initialized
+INFO - 2017-11-24 13:48:27 --> Language Class Initialized
+INFO - 2017-11-24 13:48:27 --> Language Class Initialized
+INFO - 2017-11-24 13:48:27 --> Config Class Initialized
+INFO - 2017-11-24 13:48:27 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:27 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:27 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:27 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:27 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:27 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:27 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/iventory/views/iventoryit_view.php
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:48:27 --> Final output sent to browser
+DEBUG - 2017-11-24 13:48:27 --> Total execution time: 0.0085
+INFO - 2017-11-24 13:48:27 --> Config Class Initialized
+INFO - 2017-11-24 13:48:27 --> Config Class Initialized
+INFO - 2017-11-24 13:48:27 --> Hooks Class Initialized
+INFO - 2017-11-24 13:48:27 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> UTF-8 Support Enabled
+DEBUG - 2017-11-24 13:48:27 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:27 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:27 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:27 --> URI Class Initialized
+INFO - 2017-11-24 13:48:27 --> URI Class Initialized
+INFO - 2017-11-24 13:48:27 --> Router Class Initialized
+INFO - 2017-11-24 13:48:27 --> Router Class Initialized
+INFO - 2017-11-24 13:48:27 --> Output Class Initialized
+INFO - 2017-11-24 13:48:27 --> Output Class Initialized
+INFO - 2017-11-24 13:48:27 --> Security Class Initialized
+INFO - 2017-11-24 13:48:27 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-11-24 13:48:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:27 --> Input Class Initialized
+INFO - 2017-11-24 13:48:27 --> Input Class Initialized
+INFO - 2017-11-24 13:48:27 --> Language Class Initialized
+INFO - 2017-11-24 13:48:27 --> Language Class Initialized
+INFO - 2017-11-24 13:48:27 --> Language Class Initialized
+INFO - 2017-11-24 13:48:27 --> Language Class Initialized
+INFO - 2017-11-24 13:48:27 --> Config Class Initialized
+INFO - 2017-11-24 13:48:27 --> Config Class Initialized
+INFO - 2017-11-24 13:48:27 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:27 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:27 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:27 --> Database Driver Class Initialized
+INFO - 2017-11-24 13:48:27 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2017-11-24 13:48:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:27 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:27 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:27 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:27 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+INFO - 2017-11-24 13:48:27 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:27 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:27 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:27 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+INFO - 2017-11-24 13:48:27 --> Config Class Initialized
+INFO - 2017-11-24 13:48:27 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:27 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:27 --> URI Class Initialized
+INFO - 2017-11-24 13:48:27 --> Router Class Initialized
+INFO - 2017-11-24 13:48:27 --> Output Class Initialized
+INFO - 2017-11-24 13:48:27 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:27 --> Input Class Initialized
+INFO - 2017-11-24 13:48:27 --> Language Class Initialized
+INFO - 2017-11-24 13:48:27 --> Language Class Initialized
+INFO - 2017-11-24 13:48:27 --> Config Class Initialized
+INFO - 2017-11-24 13:48:27 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:27 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:27 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:27 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:27 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:27 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:27 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/iventory/views/iventoryit_list.php
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:48:27 --> Final output sent to browser
+DEBUG - 2017-11-24 13:48:27 --> Total execution time: 0.0068
+INFO - 2017-11-24 13:48:27 --> Config Class Initialized
+INFO - 2017-11-24 13:48:27 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:27 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:27 --> URI Class Initialized
+INFO - 2017-11-24 13:48:27 --> Router Class Initialized
+INFO - 2017-11-24 13:48:27 --> Output Class Initialized
+INFO - 2017-11-24 13:48:27 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:27 --> Input Class Initialized
+INFO - 2017-11-24 13:48:27 --> Language Class Initialized
+INFO - 2017-11-24 13:48:27 --> Language Class Initialized
+INFO - 2017-11-24 13:48:27 --> Config Class Initialized
+INFO - 2017-11-24 13:48:27 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:27 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:27 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:27 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:27 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:27 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:27 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:27 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:27 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/modules/iventory/views/iventoryit_list.php
+DEBUG - 2017-11-24 13:48:27 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:48:27 --> Final output sent to browser
+DEBUG - 2017-11-24 13:48:27 --> Total execution time: 0.0064
+INFO - 2017-11-24 13:48:30 --> Config Class Initialized
+INFO - 2017-11-24 13:48:30 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:30 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:30 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:30 --> URI Class Initialized
+INFO - 2017-11-24 13:48:30 --> Router Class Initialized
+INFO - 2017-11-24 13:48:30 --> Output Class Initialized
+INFO - 2017-11-24 13:48:30 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:30 --> Input Class Initialized
+INFO - 2017-11-24 13:48:30 --> Language Class Initialized
+INFO - 2017-11-24 13:48:30 --> Language Class Initialized
+INFO - 2017-11-24 13:48:30 --> Config Class Initialized
+INFO - 2017-11-24 13:48:30 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:30 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:30 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:30 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:30 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:30 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:30 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:30 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:30 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:30 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:30 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:30 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:30 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:30 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:30 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:30 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:48:30 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:30 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:30 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:30 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:30 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:30 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:30 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:30 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:48:30 --> File loaded: /var/www/html/osstest/application/modules/iventory/views/iventoryit_list.php
+DEBUG - 2017-11-24 13:48:30 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:48:30 --> Final output sent to browser
+DEBUG - 2017-11-24 13:48:30 --> Total execution time: 0.0102
+INFO - 2017-11-24 13:48:30 --> Config Class Initialized
+INFO - 2017-11-24 13:48:30 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:30 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:30 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:30 --> URI Class Initialized
+INFO - 2017-11-24 13:48:30 --> Router Class Initialized
+INFO - 2017-11-24 13:48:30 --> Config Class Initialized
+INFO - 2017-11-24 13:48:30 --> Output Class Initialized
+INFO - 2017-11-24 13:48:30 --> Hooks Class Initialized
+INFO - 2017-11-24 13:48:30 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:30 --> UTF-8 Support Enabled
+DEBUG - 2017-11-24 13:48:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:30 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:30 --> Input Class Initialized
+INFO - 2017-11-24 13:48:30 --> Language Class Initialized
+INFO - 2017-11-24 13:48:30 --> URI Class Initialized
+ERROR - 2017-11-24 13:48:30 --> 404 Page Not Found: ../modules/iventory/controllers//index
+INFO - 2017-11-24 13:48:30 --> Router Class Initialized
+INFO - 2017-11-24 13:48:30 --> Output Class Initialized
+INFO - 2017-11-24 13:48:30 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:30 --> Input Class Initialized
+INFO - 2017-11-24 13:48:30 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:30 --> 404 Page Not Found: ../modules/iventory/controllers//index
+INFO - 2017-11-24 13:48:34 --> Config Class Initialized
+INFO - 2017-11-24 13:48:34 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:34 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:34 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:34 --> URI Class Initialized
+INFO - 2017-11-24 13:48:34 --> Router Class Initialized
+INFO - 2017-11-24 13:48:34 --> Output Class Initialized
+INFO - 2017-11-24 13:48:34 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:34 --> Input Class Initialized
+INFO - 2017-11-24 13:48:34 --> Language Class Initialized
+INFO - 2017-11-24 13:48:34 --> Language Class Initialized
+INFO - 2017-11-24 13:48:34 --> Config Class Initialized
+INFO - 2017-11-24 13:48:34 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:34 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:34 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:34 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:34 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:34 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:34 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:34 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:34 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:34 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:34 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:34 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:34 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:34 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:34 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:48:34 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:34 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:34 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:34 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:34 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:34 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:34 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:34 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:48:34 --> File loaded: /var/www/html/osstest/application/views/admin/tinymce_init.php
+DEBUG - 2017-11-24 13:48:34 --> File loaded: /var/www/html/osstest/application/modules/iventory/views/iventoryit_add.php
+DEBUG - 2017-11-24 13:48:34 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:48:34 --> Final output sent to browser
+DEBUG - 2017-11-24 13:48:34 --> Total execution time: 0.0285
+INFO - 2017-11-24 13:48:34 --> Config Class Initialized
+INFO - 2017-11-24 13:48:34 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:34 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:34 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:34 --> URI Class Initialized
+INFO - 2017-11-24 13:48:34 --> Router Class Initialized
+INFO - 2017-11-24 13:48:34 --> Output Class Initialized
+INFO - 2017-11-24 13:48:34 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:34 --> Input Class Initialized
+INFO - 2017-11-24 13:48:34 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:34 --> 404 Page Not Found: /index
+INFO - 2017-11-24 13:48:34 --> Config Class Initialized
+INFO - 2017-11-24 13:48:34 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:34 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:34 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:34 --> URI Class Initialized
+INFO - 2017-11-24 13:48:34 --> Router Class Initialized
+INFO - 2017-11-24 13:48:34 --> Output Class Initialized
+INFO - 2017-11-24 13:48:34 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:34 --> Input Class Initialized
+INFO - 2017-11-24 13:48:34 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:34 --> 404 Page Not Found: /index
+INFO - 2017-11-24 13:48:34 --> Config Class Initialized
+INFO - 2017-11-24 13:48:34 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:34 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:34 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:34 --> URI Class Initialized
+INFO - 2017-11-24 13:48:34 --> Router Class Initialized
+INFO - 2017-11-24 13:48:34 --> Output Class Initialized
+INFO - 2017-11-24 13:48:34 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:34 --> Input Class Initialized
+INFO - 2017-11-24 13:48:34 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:34 --> 404 Page Not Found: /index
+INFO - 2017-11-24 13:48:34 --> Config Class Initialized
+INFO - 2017-11-24 13:48:34 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:34 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:34 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:34 --> URI Class Initialized
+INFO - 2017-11-24 13:48:34 --> Router Class Initialized
+INFO - 2017-11-24 13:48:34 --> Output Class Initialized
+INFO - 2017-11-24 13:48:34 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:34 --> Input Class Initialized
+INFO - 2017-11-24 13:48:34 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:34 --> 404 Page Not Found: /index
+INFO - 2017-11-24 13:48:34 --> Config Class Initialized
+INFO - 2017-11-24 13:48:34 --> Config Class Initialized
+INFO - 2017-11-24 13:48:34 --> Hooks Class Initialized
+INFO - 2017-11-24 13:48:34 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:34 --> UTF-8 Support Enabled
+DEBUG - 2017-11-24 13:48:34 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:34 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:34 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:34 --> URI Class Initialized
+INFO - 2017-11-24 13:48:34 --> URI Class Initialized
+INFO - 2017-11-24 13:48:34 --> Router Class Initialized
+INFO - 2017-11-24 13:48:34 --> Router Class Initialized
+INFO - 2017-11-24 13:48:34 --> Output Class Initialized
+INFO - 2017-11-24 13:48:34 --> Output Class Initialized
+INFO - 2017-11-24 13:48:34 --> Security Class Initialized
+INFO - 2017-11-24 13:48:34 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-11-24 13:48:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:34 --> Input Class Initialized
+INFO - 2017-11-24 13:48:34 --> Input Class Initialized
+INFO - 2017-11-24 13:48:34 --> Language Class Initialized
+INFO - 2017-11-24 13:48:34 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:34 --> 404 Page Not Found: ../modules/iventory/controllers/Iventoryit/dist
+ERROR - 2017-11-24 13:48:34 --> 404 Page Not Found: ../modules/iventory/controllers/Iventoryit/dist
+INFO - 2017-11-24 13:48:36 --> Config Class Initialized
+INFO - 2017-11-24 13:48:36 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:36 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:36 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:36 --> URI Class Initialized
+INFO - 2017-11-24 13:48:36 --> Router Class Initialized
+INFO - 2017-11-24 13:48:36 --> Output Class Initialized
+INFO - 2017-11-24 13:48:36 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:36 --> Input Class Initialized
+INFO - 2017-11-24 13:48:36 --> Language Class Initialized
+INFO - 2017-11-24 13:48:36 --> Language Class Initialized
+INFO - 2017-11-24 13:48:36 --> Config Class Initialized
+INFO - 2017-11-24 13:48:36 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:36 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:36 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:36 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:36 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:36 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:36 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:36 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:36 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:36 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:36 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:36 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:36 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:36 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:36 --> File loaded: /var/www/html/osstest/application/modules/itservice/models/Itservice_model.php
+INFO - 2017-11-24 13:48:36 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:36 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:36 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:36 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:36 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:36 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:36 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:36 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:48:36 --> File loaded: /var/www/html/osstest/application/modules/itservice/views/itservice_list.php
+DEBUG - 2017-11-24 13:48:36 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:48:36 --> Final output sent to browser
+DEBUG - 2017-11-24 13:48:36 --> Total execution time: 0.0799
+INFO - 2017-11-24 13:48:36 --> Config Class Initialized
+INFO - 2017-11-24 13:48:36 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:36 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:36 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:36 --> URI Class Initialized
+INFO - 2017-11-24 13:48:36 --> Router Class Initialized
+INFO - 2017-11-24 13:48:36 --> Output Class Initialized
+INFO - 2017-11-24 13:48:36 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:36 --> Input Class Initialized
+INFO - 2017-11-24 13:48:36 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:36 --> 404 Page Not Found: /index
+INFO - 2017-11-24 13:48:36 --> Config Class Initialized
+INFO - 2017-11-24 13:48:36 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:36 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:36 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:36 --> URI Class Initialized
+INFO - 2017-11-24 13:48:36 --> Router Class Initialized
+INFO - 2017-11-24 13:48:36 --> Output Class Initialized
+INFO - 2017-11-24 13:48:36 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:36 --> Input Class Initialized
+INFO - 2017-11-24 13:48:36 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:36 --> 404 Page Not Found: /index
+INFO - 2017-11-24 13:48:38 --> Config Class Initialized
+INFO - 2017-11-24 13:48:38 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:38 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:38 --> URI Class Initialized
+INFO - 2017-11-24 13:48:38 --> Router Class Initialized
+INFO - 2017-11-24 13:48:38 --> Output Class Initialized
+INFO - 2017-11-24 13:48:38 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:38 --> Input Class Initialized
+INFO - 2017-11-24 13:48:38 --> Language Class Initialized
+INFO - 2017-11-24 13:48:38 --> Language Class Initialized
+INFO - 2017-11-24 13:48:38 --> Config Class Initialized
+INFO - 2017-11-24 13:48:38 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:38 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:38 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:38 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:38 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:38 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:38 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/itservice/models/Itservice_model.php
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/itservice/views/itservice_view.php
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:48:38 --> Final output sent to browser
+DEBUG - 2017-11-24 13:48:38 --> Total execution time: 0.0481
+INFO - 2017-11-24 13:48:38 --> Config Class Initialized
+INFO - 2017-11-24 13:48:38 --> Hooks Class Initialized
+INFO - 2017-11-24 13:48:38 --> Config Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:38 --> Hooks Class Initialized
+INFO - 2017-11-24 13:48:38 --> Utf8 Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:38 --> URI Class Initialized
+INFO - 2017-11-24 13:48:38 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:38 --> Router Class Initialized
+INFO - 2017-11-24 13:48:38 --> URI Class Initialized
+INFO - 2017-11-24 13:48:38 --> Output Class Initialized
+INFO - 2017-11-24 13:48:38 --> Security Class Initialized
+INFO - 2017-11-24 13:48:38 --> Router Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:38 --> Output Class Initialized
+INFO - 2017-11-24 13:48:38 --> Input Class Initialized
+INFO - 2017-11-24 13:48:38 --> Security Class Initialized
+INFO - 2017-11-24 13:48:38 --> Language Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:38 --> Input Class Initialized
+INFO - 2017-11-24 13:48:38 --> Language Class Initialized
+INFO - 2017-11-24 13:48:38 --> Language Class Initialized
+INFO - 2017-11-24 13:48:38 --> Config Class Initialized
+INFO - 2017-11-24 13:48:38 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:38 --> Language Class Initialized
+INFO - 2017-11-24 13:48:38 --> Config Class Initialized
+INFO - 2017-11-24 13:48:38 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:38 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:38 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:38 --> Database Driver Class Initialized
+INFO - 2017-11-24 13:48:38 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:38 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+DEBUG - 2017-11-24 13:48:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:38 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:38 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:38 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:38 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/itservice/models/Itservice_model.php
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+INFO - 2017-11-24 13:48:38 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:38 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:38 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:38 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/itservice/models/Itservice_model.php
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+INFO - 2017-11-24 13:48:38 --> Config Class Initialized
+INFO - 2017-11-24 13:48:38 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:38 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:38 --> URI Class Initialized
+INFO - 2017-11-24 13:48:38 --> Router Class Initialized
+INFO - 2017-11-24 13:48:38 --> Output Class Initialized
+INFO - 2017-11-24 13:48:38 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:38 --> Input Class Initialized
+INFO - 2017-11-24 13:48:38 --> Language Class Initialized
+INFO - 2017-11-24 13:48:38 --> Language Class Initialized
+INFO - 2017-11-24 13:48:38 --> Config Class Initialized
+INFO - 2017-11-24 13:48:38 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:38 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:38 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:38 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:38 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:38 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:38 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/itservice/models/Itservice_model.php
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/itservice/views/itservice_list.php
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:48:38 --> Final output sent to browser
+DEBUG - 2017-11-24 13:48:38 --> Total execution time: 0.0447
+INFO - 2017-11-24 13:48:38 --> Config Class Initialized
+INFO - 2017-11-24 13:48:38 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:38 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:38 --> URI Class Initialized
+INFO - 2017-11-24 13:48:38 --> Router Class Initialized
+INFO - 2017-11-24 13:48:38 --> Output Class Initialized
+INFO - 2017-11-24 13:48:38 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:38 --> Input Class Initialized
+INFO - 2017-11-24 13:48:38 --> Language Class Initialized
+INFO - 2017-11-24 13:48:38 --> Language Class Initialized
+INFO - 2017-11-24 13:48:38 --> Config Class Initialized
+INFO - 2017-11-24 13:48:38 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:38 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:38 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:38 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:38 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:38 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:38 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:38 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/itservice/models/Itservice_model.php
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:38 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/modules/itservice/views/itservice_list.php
+DEBUG - 2017-11-24 13:48:38 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:48:38 --> Final output sent to browser
+DEBUG - 2017-11-24 13:48:38 --> Total execution time: 0.0080
+INFO - 2017-11-24 13:48:43 --> Config Class Initialized
+INFO - 2017-11-24 13:48:43 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:43 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:43 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:43 --> URI Class Initialized
+INFO - 2017-11-24 13:48:43 --> Router Class Initialized
+INFO - 2017-11-24 13:48:43 --> Output Class Initialized
+INFO - 2017-11-24 13:48:43 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:43 --> Input Class Initialized
+INFO - 2017-11-24 13:48:43 --> Language Class Initialized
+INFO - 2017-11-24 13:48:43 --> Language Class Initialized
+INFO - 2017-11-24 13:48:43 --> Config Class Initialized
+INFO - 2017-11-24 13:48:43 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:43 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:43 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:43 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:43 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:43 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:43 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:43 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:43 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:43 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:43 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:43 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:43 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:43 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:43 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:43 --> File loaded: /var/www/html/osstest/application/modules/itservice/models/Itservice_model.php
+INFO - 2017-11-24 13:48:43 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:43 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:43 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:43 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:43 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:43 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:43 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:43 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:48:43 --> File loaded: /var/www/html/osstest/application/views/admin/tinymce_init.php
+DEBUG - 2017-11-24 13:48:43 --> File loaded: /var/www/html/osstest/application/modules/itservice/views/itservice_add.php
+DEBUG - 2017-11-24 13:48:43 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:48:43 --> Final output sent to browser
+DEBUG - 2017-11-24 13:48:43 --> Total execution time: 0.1871
+INFO - 2017-11-24 13:48:43 --> Config Class Initialized
+INFO - 2017-11-24 13:48:43 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:43 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:43 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:43 --> URI Class Initialized
+INFO - 2017-11-24 13:48:43 --> Router Class Initialized
+INFO - 2017-11-24 13:48:43 --> Output Class Initialized
+INFO - 2017-11-24 13:48:43 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:43 --> Input Class Initialized
+INFO - 2017-11-24 13:48:43 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:43 --> 404 Page Not Found: ../modules/itservice/controllers/Itservice/dist
+INFO - 2017-11-24 13:48:43 --> Config Class Initialized
+INFO - 2017-11-24 13:48:43 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:43 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:43 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:43 --> URI Class Initialized
+INFO - 2017-11-24 13:48:43 --> Router Class Initialized
+INFO - 2017-11-24 13:48:43 --> Output Class Initialized
+INFO - 2017-11-24 13:48:43 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:43 --> Input Class Initialized
+INFO - 2017-11-24 13:48:43 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:43 --> 404 Page Not Found: ../modules/itservice/controllers/Itservice/dist
+INFO - 2017-11-24 13:48:46 --> Config Class Initialized
+INFO - 2017-11-24 13:48:46 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:46 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:46 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:46 --> URI Class Initialized
+INFO - 2017-11-24 13:48:46 --> Router Class Initialized
+INFO - 2017-11-24 13:48:46 --> Output Class Initialized
+INFO - 2017-11-24 13:48:46 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:46 --> Input Class Initialized
+INFO - 2017-11-24 13:48:46 --> Language Class Initialized
+INFO - 2017-11-24 13:48:46 --> Language Class Initialized
+INFO - 2017-11-24 13:48:46 --> Config Class Initialized
+INFO - 2017-11-24 13:48:46 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:46 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:46 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:46 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:46 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:46 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:46 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:46 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:46 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:46 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:46 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:46 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:46 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:46 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:46 --> File loaded: /var/www/html/osstest/application/modules/itservice/models/Itservice_model.php
+INFO - 2017-11-24 13:48:46 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:46 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:46 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:46 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:46 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:46 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:46 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:46 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:48:46 --> File loaded: /var/www/html/osstest/application/modules/itservice/views/itservice_list.php
+DEBUG - 2017-11-24 13:48:46 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:48:46 --> Final output sent to browser
+DEBUG - 2017-11-24 13:48:46 --> Total execution time: 0.0115
+INFO - 2017-11-24 13:48:46 --> Config Class Initialized
+INFO - 2017-11-24 13:48:46 --> Hooks Class Initialized
+INFO - 2017-11-24 13:48:46 --> Config Class Initialized
+INFO - 2017-11-24 13:48:46 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:46 --> UTF-8 Support Enabled
+DEBUG - 2017-11-24 13:48:46 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:46 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:46 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:46 --> URI Class Initialized
+INFO - 2017-11-24 13:48:46 --> URI Class Initialized
+INFO - 2017-11-24 13:48:46 --> Router Class Initialized
+INFO - 2017-11-24 13:48:46 --> Router Class Initialized
+INFO - 2017-11-24 13:48:46 --> Output Class Initialized
+INFO - 2017-11-24 13:48:46 --> Output Class Initialized
+INFO - 2017-11-24 13:48:46 --> Security Class Initialized
+INFO - 2017-11-24 13:48:46 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-11-24 13:48:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:46 --> Input Class Initialized
+INFO - 2017-11-24 13:48:46 --> Input Class Initialized
+INFO - 2017-11-24 13:48:46 --> Language Class Initialized
+INFO - 2017-11-24 13:48:46 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:46 --> 404 Page Not Found: /index
+ERROR - 2017-11-24 13:48:46 --> 404 Page Not Found: /index
+INFO - 2017-11-24 13:48:49 --> Config Class Initialized
+INFO - 2017-11-24 13:48:49 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:49 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:49 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:49 --> URI Class Initialized
+INFO - 2017-11-24 13:48:49 --> Router Class Initialized
+INFO - 2017-11-24 13:48:49 --> Output Class Initialized
+INFO - 2017-11-24 13:48:49 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:49 --> Input Class Initialized
+INFO - 2017-11-24 13:48:49 --> Language Class Initialized
+INFO - 2017-11-24 13:48:49 --> Language Class Initialized
+INFO - 2017-11-24 13:48:49 --> Config Class Initialized
+INFO - 2017-11-24 13:48:49 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:49 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:49 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:49 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:49 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:49 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:49 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:49 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:49 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:49 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:49 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:49 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:49 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:49 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:49 --> File loaded: /var/www/html/osstest/application/modules/itservice/models/Itservice_model.php
+INFO - 2017-11-24 13:48:49 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:49 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:49 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:49 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:49 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:49 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:49 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:49 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:48:49 --> File loaded: /var/www/html/osstest/application/views/admin/tinymce_init.php
+DEBUG - 2017-11-24 13:48:49 --> File loaded: /var/www/html/osstest/application/modules/itservice/views/itservice_add.php
+DEBUG - 2017-11-24 13:48:49 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:48:49 --> Final output sent to browser
+DEBUG - 2017-11-24 13:48:49 --> Total execution time: 0.0098
+INFO - 2017-11-24 13:48:49 --> Config Class Initialized
+INFO - 2017-11-24 13:48:49 --> Hooks Class Initialized
+INFO - 2017-11-24 13:48:49 --> Config Class Initialized
+INFO - 2017-11-24 13:48:49 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:49 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:49 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:49 --> URI Class Initialized
+INFO - 2017-11-24 13:48:49 --> Router Class Initialized
+INFO - 2017-11-24 13:48:49 --> Output Class Initialized
+INFO - 2017-11-24 13:48:49 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:49 --> Input Class Initialized
+INFO - 2017-11-24 13:48:49 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:49 --> 404 Page Not Found: ../modules/itservice/controllers/Itservice/dist
+DEBUG - 2017-11-24 13:48:49 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:49 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:49 --> URI Class Initialized
+INFO - 2017-11-24 13:48:49 --> Router Class Initialized
+INFO - 2017-11-24 13:48:49 --> Output Class Initialized
+INFO - 2017-11-24 13:48:49 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:49 --> Input Class Initialized
+INFO - 2017-11-24 13:48:49 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:49 --> 404 Page Not Found: ../modules/itservice/controllers/Itservice/dist
+INFO - 2017-11-24 13:48:59 --> Config Class Initialized
+INFO - 2017-11-24 13:48:59 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:59 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:59 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:59 --> URI Class Initialized
+INFO - 2017-11-24 13:48:59 --> Router Class Initialized
+INFO - 2017-11-24 13:48:59 --> Output Class Initialized
+INFO - 2017-11-24 13:48:59 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:59 --> Input Class Initialized
+INFO - 2017-11-24 13:48:59 --> Language Class Initialized
+INFO - 2017-11-24 13:48:59 --> Language Class Initialized
+INFO - 2017-11-24 13:48:59 --> Config Class Initialized
+INFO - 2017-11-24 13:48:59 --> Loader Class Initialized
+INFO - 2017-11-24 13:48:59 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:48:59 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:48:59 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:48:59 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:48:59 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:48:59 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:48:59 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:48:59 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:48:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:48:59 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:48:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:48:59 --> Pagination Class Initialized
+INFO - 2017-11-24 13:48:59 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:48:59 --> Controller Class Initialized
+INFO - 2017-11-24 13:48:59 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:59 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:48:59 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:59 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:48:59 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:59 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:48:59 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:59 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:48:59 --> Model Class Initialized
+DEBUG - 2017-11-24 13:48:59 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:48:59 --> File loaded: /var/www/html/osstest/application/modules/iventory/views/iventoryit_list.php
+DEBUG - 2017-11-24 13:48:59 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:48:59 --> Final output sent to browser
+DEBUG - 2017-11-24 13:48:59 --> Total execution time: 0.0973
+INFO - 2017-11-24 13:48:59 --> Config Class Initialized
+INFO - 2017-11-24 13:48:59 --> Hooks Class Initialized
+INFO - 2017-11-24 13:48:59 --> Config Class Initialized
+INFO - 2017-11-24 13:48:59 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:48:59 --> UTF-8 Support Enabled
+DEBUG - 2017-11-24 13:48:59 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:48:59 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:59 --> URI Class Initialized
+INFO - 2017-11-24 13:48:59 --> Router Class Initialized
+INFO - 2017-11-24 13:48:59 --> Output Class Initialized
+INFO - 2017-11-24 13:48:59 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:59 --> Input Class Initialized
+INFO - 2017-11-24 13:48:59 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:59 --> 404 Page Not Found: ../modules/iventory/controllers//index
+INFO - 2017-11-24 13:48:59 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:48:59 --> URI Class Initialized
+INFO - 2017-11-24 13:48:59 --> Router Class Initialized
+INFO - 2017-11-24 13:48:59 --> Output Class Initialized
+INFO - 2017-11-24 13:48:59 --> Security Class Initialized
+DEBUG - 2017-11-24 13:48:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:48:59 --> Input Class Initialized
+INFO - 2017-11-24 13:48:59 --> Language Class Initialized
+ERROR - 2017-11-24 13:48:59 --> 404 Page Not Found: ../modules/iventory/controllers//index
+INFO - 2017-11-24 13:49:05 --> Config Class Initialized
+INFO - 2017-11-24 13:49:05 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:49:05 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:49:05 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:49:05 --> URI Class Initialized
+INFO - 2017-11-24 13:49:05 --> Router Class Initialized
+INFO - 2017-11-24 13:49:05 --> Output Class Initialized
+INFO - 2017-11-24 13:49:05 --> Security Class Initialized
+DEBUG - 2017-11-24 13:49:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:49:05 --> Input Class Initialized
+INFO - 2017-11-24 13:49:05 --> Language Class Initialized
+ERROR - 2017-11-24 13:49:05 --> 404 Page Not Found: /index
+INFO - 2017-11-24 13:49:12 --> Config Class Initialized
+INFO - 2017-11-24 13:49:12 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:49:12 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:49:12 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:49:12 --> URI Class Initialized
+INFO - 2017-11-24 13:49:12 --> Router Class Initialized
+INFO - 2017-11-24 13:49:12 --> Output Class Initialized
+INFO - 2017-11-24 13:49:12 --> Security Class Initialized
+DEBUG - 2017-11-24 13:49:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:49:12 --> Input Class Initialized
+INFO - 2017-11-24 13:49:12 --> Language Class Initialized
+INFO - 2017-11-24 13:49:12 --> Language Class Initialized
+INFO - 2017-11-24 13:49:12 --> Config Class Initialized
+INFO - 2017-11-24 13:49:12 --> Loader Class Initialized
+INFO - 2017-11-24 13:49:12 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:49:12 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:49:12 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:49:12 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:49:12 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:49:12 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:49:12 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:49:12 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:49:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:49:12 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:49:12 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:49:12 --> Pagination Class Initialized
+INFO - 2017-11-24 13:49:12 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:49:12 --> Controller Class Initialized
+INFO - 2017-11-24 13:49:12 --> Model Class Initialized
+DEBUG - 2017-11-24 13:49:12 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:49:12 --> Model Class Initialized
+DEBUG - 2017-11-24 13:49:12 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:49:12 --> Model Class Initialized
+DEBUG - 2017-11-24 13:49:12 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:49:12 --> Model Class Initialized
+DEBUG - 2017-11-24 13:49:12 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:49:12 --> Model Class Initialized
+DEBUG - 2017-11-24 13:49:12 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:49:12 --> File loaded: /var/www/html/osstest/application/modules/iventory/views/iventoryit_list.php
+DEBUG - 2017-11-24 13:49:12 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:49:12 --> Final output sent to browser
+DEBUG - 2017-11-24 13:49:12 --> Total execution time: 0.0060
+INFO - 2017-11-24 13:49:14 --> Config Class Initialized
+INFO - 2017-11-24 13:49:14 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:49:14 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:49:14 --> URI Class Initialized
+INFO - 2017-11-24 13:49:14 --> Router Class Initialized
+INFO - 2017-11-24 13:49:14 --> Output Class Initialized
+INFO - 2017-11-24 13:49:14 --> Security Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:49:14 --> Input Class Initialized
+INFO - 2017-11-24 13:49:14 --> Language Class Initialized
+INFO - 2017-11-24 13:49:14 --> Language Class Initialized
+INFO - 2017-11-24 13:49:14 --> Config Class Initialized
+INFO - 2017-11-24 13:49:14 --> Loader Class Initialized
+INFO - 2017-11-24 13:49:14 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:49:14 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:49:14 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:49:14 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:49:14 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:49:14 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:49:14 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:49:14 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:49:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:49:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:49:14 --> Pagination Class Initialized
+INFO - 2017-11-24 13:49:14 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:49:14 --> Controller Class Initialized
+INFO - 2017-11-24 13:49:14 --> Model Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:49:14 --> Model Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:49:14 --> Model Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:49:14 --> Model Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:49:14 --> Model Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 13:49:14 --> File loaded: /var/www/html/osstest/application/views/admin/tinymce_init.php
+DEBUG - 2017-11-24 13:49:14 --> File loaded: /var/www/html/osstest/application/modules/iventory/views/iventoryit_add.php
+DEBUG - 2017-11-24 13:49:14 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 13:49:14 --> Final output sent to browser
+DEBUG - 2017-11-24 13:49:14 --> Total execution time: 0.0116
+INFO - 2017-11-24 13:49:14 --> Config Class Initialized
+INFO - 2017-11-24 13:49:14 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:49:14 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:49:14 --> URI Class Initialized
+INFO - 2017-11-24 13:49:14 --> Router Class Initialized
+INFO - 2017-11-24 13:49:14 --> Output Class Initialized
+INFO - 2017-11-24 13:49:14 --> Security Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:49:14 --> Input Class Initialized
+INFO - 2017-11-24 13:49:14 --> Language Class Initialized
+ERROR - 2017-11-24 13:49:14 --> 404 Page Not Found: /index
+INFO - 2017-11-24 13:49:14 --> Config Class Initialized
+INFO - 2017-11-24 13:49:14 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:49:14 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:49:14 --> URI Class Initialized
+INFO - 2017-11-24 13:49:14 --> Router Class Initialized
+INFO - 2017-11-24 13:49:14 --> Output Class Initialized
+INFO - 2017-11-24 13:49:14 --> Security Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:49:14 --> Input Class Initialized
+INFO - 2017-11-24 13:49:14 --> Language Class Initialized
+INFO - 2017-11-24 13:49:14 --> Language Class Initialized
+INFO - 2017-11-24 13:49:14 --> Config Class Initialized
+INFO - 2017-11-24 13:49:14 --> Loader Class Initialized
+INFO - 2017-11-24 13:49:14 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:49:14 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:49:14 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:49:14 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:49:14 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:49:14 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:49:14 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:49:14 --> Database Driver Class Initialized
+INFO - 2017-11-24 13:49:14 --> Config Class Initialized
+INFO - 2017-11-24 13:49:14 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> UTF-8 Support Enabled
+DEBUG - 2017-11-24 13:49:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:49:14 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:49:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:49:14 --> URI Class Initialized
+INFO - 2017-11-24 13:49:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:49:14 --> Router Class Initialized
+INFO - 2017-11-24 13:49:14 --> Pagination Class Initialized
+INFO - 2017-11-24 13:49:14 --> Output Class Initialized
+INFO - 2017-11-24 13:49:14 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:49:14 --> Security Class Initialized
+INFO - 2017-11-24 13:49:14 --> Controller Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:49:14 --> Model Class Initialized
+INFO - 2017-11-24 13:49:14 --> Input Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:49:14 --> Language Class Initialized
+INFO - 2017-11-24 13:49:14 --> Model Class Initialized
+INFO - 2017-11-24 13:49:14 --> Config Class Initialized
+ERROR - 2017-11-24 13:49:14 --> 404 Page Not Found: /index
+DEBUG - 2017-11-24 13:49:14 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:49:14 --> Model Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:49:14 --> Model Class Initialized
+INFO - 2017-11-24 13:49:14 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:49:14 --> Model Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:49:14 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:49:14 --> URI Class Initialized
+INFO - 2017-11-24 13:49:14 --> Router Class Initialized
+INFO - 2017-11-24 13:49:14 --> Output Class Initialized
+INFO - 2017-11-24 13:49:14 --> Security Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:49:14 --> Input Class Initialized
+INFO - 2017-11-24 13:49:14 --> Language Class Initialized
+INFO - 2017-11-24 13:49:14 --> Language Class Initialized
+INFO - 2017-11-24 13:49:14 --> Config Class Initialized
+INFO - 2017-11-24 13:49:14 --> Loader Class Initialized
+INFO - 2017-11-24 13:49:14 --> Helper loaded: url_helper
+INFO - 2017-11-24 13:49:14 --> Helper loaded: form_helper
+INFO - 2017-11-24 13:49:14 --> Helper loaded: file_helper
+INFO - 2017-11-24 13:49:14 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 13:49:14 --> Helper loaded: string_helper
+INFO - 2017-11-24 13:49:14 --> Helper loaded: cg_helper
+INFO - 2017-11-24 13:49:14 --> Helper loaded: security_helper
+INFO - 2017-11-24 13:49:14 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 13:49:14 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 13:49:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 13:49:14 --> Pagination Class Initialized
+INFO - 2017-11-24 13:49:14 --> Form Validation Class Initialized
+INFO - 2017-11-24 13:49:14 --> Controller Class Initialized
+INFO - 2017-11-24 13:49:14 --> Model Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> File loaded: /var/www/html/osstest/application/modules/iventory/models/Iventoryit_model.php
+INFO - 2017-11-24 13:49:14 --> Model Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 13:49:14 --> Model Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 13:49:14 --> Model Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 13:49:14 --> Model Class Initialized
+INFO - 2017-11-24 13:49:14 --> Config Class Initialized
+INFO - 2017-11-24 13:49:14 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:49:14 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:49:14 --> URI Class Initialized
+INFO - 2017-11-24 13:49:14 --> Router Class Initialized
+INFO - 2017-11-24 13:49:14 --> Output Class Initialized
+INFO - 2017-11-24 13:49:14 --> Security Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:49:14 --> Input Class Initialized
+INFO - 2017-11-24 13:49:14 --> Language Class Initialized
+ERROR - 2017-11-24 13:49:14 --> 404 Page Not Found: ../modules/iventory/controllers/Iventoryit/iventoryit_add
+INFO - 2017-11-24 13:49:14 --> Config Class Initialized
+INFO - 2017-11-24 13:49:14 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:49:14 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:49:14 --> URI Class Initialized
+INFO - 2017-11-24 13:49:14 --> Router Class Initialized
+INFO - 2017-11-24 13:49:14 --> Output Class Initialized
+INFO - 2017-11-24 13:49:14 --> Security Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:49:14 --> Input Class Initialized
+INFO - 2017-11-24 13:49:14 --> Language Class Initialized
+ERROR - 2017-11-24 13:49:14 --> 404 Page Not Found: ../modules/iventory/controllers/Iventoryit/iventoryit_add
+INFO - 2017-11-24 13:49:14 --> Config Class Initialized
+INFO - 2017-11-24 13:49:14 --> Config Class Initialized
+INFO - 2017-11-24 13:49:14 --> Hooks Class Initialized
+INFO - 2017-11-24 13:49:14 --> Hooks Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> UTF-8 Support Enabled
+DEBUG - 2017-11-24 13:49:14 --> UTF-8 Support Enabled
+INFO - 2017-11-24 13:49:14 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:49:14 --> Utf8 Class Initialized
+INFO - 2017-11-24 13:49:14 --> URI Class Initialized
+INFO - 2017-11-24 13:49:14 --> URI Class Initialized
+INFO - 2017-11-24 13:49:14 --> Router Class Initialized
+INFO - 2017-11-24 13:49:14 --> Router Class Initialized
+INFO - 2017-11-24 13:49:14 --> Output Class Initialized
+INFO - 2017-11-24 13:49:14 --> Output Class Initialized
+INFO - 2017-11-24 13:49:14 --> Security Class Initialized
+INFO - 2017-11-24 13:49:14 --> Security Class Initialized
+DEBUG - 2017-11-24 13:49:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-11-24 13:49:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 13:49:14 --> Input Class Initialized
+INFO - 2017-11-24 13:49:14 --> Language Class Initialized
+INFO - 2017-11-24 13:49:14 --> Input Class Initialized
+ERROR - 2017-11-24 13:49:14 --> 404 Page Not Found: /index
+INFO - 2017-11-24 13:49:14 --> Language Class Initialized
+ERROR - 2017-11-24 13:49:14 --> 404 Page Not Found: /index

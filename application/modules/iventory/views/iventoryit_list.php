@@ -41,7 +41,7 @@
                     
                         <tr style="background : #e0e0e0;">
                             <td ><?php echo $row['iventoryit_type_name']; ?></td>
-                            <td ><a href="<?php echo site_url('iventoryit/add/' . $row['iventoryit_id']); ?>" ><?php echo $row['iventoryit_hostname']; ?></a></td>
+                            <td ><a href="<?php echo site_url('iventory/iventoryit/add/' . $row['iventoryit_id']); ?>" ><?php echo $row['iventoryit_hostname']; ?></a></td>
                             <td ><?php echo $row['iventoryit_ip']; ?></td>
                             <td ><?php echo $row['employe_name']; ?></td>
                             <td ><?php echo $row['departement_name']; ?></td>
