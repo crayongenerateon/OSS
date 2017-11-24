@@ -12480,3 +12480,139 @@ DEBUG - 2017-11-24 14:35:04 --> Global POST, GET and COOKIE data sanitized
 INFO - 2017-11-24 14:35:04 --> Input Class Initialized
 INFO - 2017-11-24 14:35:04 --> Language Class Initialized
 ERROR - 2017-11-24 14:35:04 --> 404 Page Not Found: /index
+INFO - 2017-11-24 14:47:18 --> Config Class Initialized
+INFO - 2017-11-24 14:47:18 --> Hooks Class Initialized
+DEBUG - 2017-11-24 14:47:18 --> UTF-8 Support Enabled
+INFO - 2017-11-24 14:47:18 --> Utf8 Class Initialized
+INFO - 2017-11-24 14:47:18 --> URI Class Initialized
+DEBUG - 2017-11-24 14:47:18 --> No URI present. Default controller set.
+INFO - 2017-11-24 14:47:18 --> Router Class Initialized
+INFO - 2017-11-24 14:47:18 --> Output Class Initialized
+INFO - 2017-11-24 14:47:18 --> Security Class Initialized
+DEBUG - 2017-11-24 14:47:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 14:47:18 --> Input Class Initialized
+INFO - 2017-11-24 14:47:18 --> Language Class Initialized
+INFO - 2017-11-24 14:47:18 --> Language Class Initialized
+INFO - 2017-11-24 14:47:18 --> Config Class Initialized
+INFO - 2017-11-24 14:47:18 --> Loader Class Initialized
+INFO - 2017-11-24 14:47:18 --> Helper loaded: url_helper
+INFO - 2017-11-24 14:47:18 --> Helper loaded: form_helper
+INFO - 2017-11-24 14:47:18 --> Helper loaded: file_helper
+INFO - 2017-11-24 14:47:18 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 14:47:18 --> Helper loaded: string_helper
+INFO - 2017-11-24 14:47:18 --> Helper loaded: cg_helper
+INFO - 2017-11-24 14:47:18 --> Helper loaded: security_helper
+INFO - 2017-11-24 14:47:18 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 14:47:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 14:47:18 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 14:47:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 14:47:18 --> Pagination Class Initialized
+INFO - 2017-11-24 14:47:18 --> Form Validation Class Initialized
+INFO - 2017-11-24 14:47:18 --> Controller Class Initialized
+DEBUG - 2017-11-24 14:47:18 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 14:47:18 --> File loaded: /var/www/html/osstest/application/modules/Welcome/views/welcome_message.php
+DEBUG - 2017-11-24 14:47:18 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 14:47:18 --> Final output sent to browser
+DEBUG - 2017-11-24 14:47:18 --> Total execution time: 0.0060
+INFO - 2017-11-24 14:47:18 --> Config Class Initialized
+INFO - 2017-11-24 14:47:18 --> Config Class Initialized
+INFO - 2017-11-24 14:47:18 --> Hooks Class Initialized
+INFO - 2017-11-24 14:47:18 --> Hooks Class Initialized
+DEBUG - 2017-11-24 14:47:18 --> UTF-8 Support Enabled
+DEBUG - 2017-11-24 14:47:18 --> UTF-8 Support Enabled
+INFO - 2017-11-24 14:47:18 --> Utf8 Class Initialized
+INFO - 2017-11-24 14:47:18 --> Utf8 Class Initialized
+INFO - 2017-11-24 14:47:18 --> URI Class Initialized
+INFO - 2017-11-24 14:47:18 --> URI Class Initialized
+INFO - 2017-11-24 14:47:18 --> Router Class Initialized
+INFO - 2017-11-24 14:47:18 --> Router Class Initialized
+INFO - 2017-11-24 14:47:18 --> Output Class Initialized
+INFO - 2017-11-24 14:47:18 --> Output Class Initialized
+INFO - 2017-11-24 14:47:18 --> Security Class Initialized
+INFO - 2017-11-24 14:47:18 --> Security Class Initialized
+DEBUG - 2017-11-24 14:47:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-11-24 14:47:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 14:47:18 --> Input Class Initialized
+INFO - 2017-11-24 14:47:18 --> Input Class Initialized
+INFO - 2017-11-24 14:47:18 --> Language Class Initialized
+INFO - 2017-11-24 14:47:18 --> Language Class Initialized
+ERROR - 2017-11-24 14:47:18 --> 404 Page Not Found: /index
+ERROR - 2017-11-24 14:47:18 --> 404 Page Not Found: /index
+INFO - 2017-11-24 14:47:20 --> Config Class Initialized
+INFO - 2017-11-24 14:47:20 --> Hooks Class Initialized
+DEBUG - 2017-11-24 14:47:20 --> UTF-8 Support Enabled
+INFO - 2017-11-24 14:47:20 --> Utf8 Class Initialized
+INFO - 2017-11-24 14:47:20 --> URI Class Initialized
+INFO - 2017-11-24 14:47:20 --> Router Class Initialized
+INFO - 2017-11-24 14:47:20 --> Output Class Initialized
+INFO - 2017-11-24 14:47:20 --> Security Class Initialized
+DEBUG - 2017-11-24 14:47:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 14:47:20 --> Input Class Initialized
+INFO - 2017-11-24 14:47:20 --> Language Class Initialized
+INFO - 2017-11-24 14:47:20 --> Language Class Initialized
+INFO - 2017-11-24 14:47:20 --> Config Class Initialized
+INFO - 2017-11-24 14:47:20 --> Loader Class Initialized
+INFO - 2017-11-24 14:47:20 --> Helper loaded: url_helper
+INFO - 2017-11-24 14:47:20 --> Helper loaded: form_helper
+INFO - 2017-11-24 14:47:20 --> Helper loaded: file_helper
+INFO - 2017-11-24 14:47:20 --> Helper loaded: inflector_helper
+INFO - 2017-11-24 14:47:20 --> Helper loaded: string_helper
+INFO - 2017-11-24 14:47:20 --> Helper loaded: cg_helper
+INFO - 2017-11-24 14:47:20 --> Helper loaded: security_helper
+INFO - 2017-11-24 14:47:20 --> Database Driver Class Initialized
+DEBUG - 2017-11-24 14:47:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2017-11-24 14:47:20 --> Session: Class initialized using 'files' driver.
+INFO - 2017-11-24 14:47:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2017-11-24 14:47:20 --> Pagination Class Initialized
+INFO - 2017-11-24 14:47:20 --> Form Validation Class Initialized
+INFO - 2017-11-24 14:47:20 --> Controller Class Initialized
+INFO - 2017-11-24 14:47:20 --> Model Class Initialized
+DEBUG - 2017-11-24 14:47:20 --> File loaded: /var/www/html/osstest/application/modules/employe/models/Employe_model.php
+INFO - 2017-11-24 14:47:20 --> Model Class Initialized
+DEBUG - 2017-11-24 14:47:20 --> File loaded: /var/www/html/osstest/application/modules/master/models/Kelamin_model.php
+INFO - 2017-11-24 14:47:20 --> Model Class Initialized
+DEBUG - 2017-11-24 14:47:20 --> File loaded: /var/www/html/osstest/application/modules/master/models/Religion_model.php
+INFO - 2017-11-24 14:47:20 --> Model Class Initialized
+DEBUG - 2017-11-24 14:47:20 --> File loaded: /var/www/html/osstest/application/modules/master/models/Division_model.php
+INFO - 2017-11-24 14:47:20 --> Model Class Initialized
+DEBUG - 2017-11-24 14:47:20 --> File loaded: /var/www/html/osstest/application/modules/master/models/Departement_model.php
+INFO - 2017-11-24 14:47:20 --> Model Class Initialized
+DEBUG - 2017-11-24 14:47:20 --> File loaded: /var/www/html/osstest/application/modules/master/models/Jabatan_model.php
+INFO - 2017-11-24 14:47:20 --> Model Class Initialized
+DEBUG - 2017-11-24 14:47:20 --> File loaded: /var/www/html/osstest/application/modules/master/models/Pendidikan_model.php
+INFO - 2017-11-24 14:47:20 --> Model Class Initialized
+DEBUG - 2017-11-24 14:47:20 --> File loaded: /var/www/html/osstest/application/modules/master/models/Status_model.php
+INFO - 2017-11-24 14:47:20 --> Model Class Initialized
+DEBUG - 2017-11-24 14:47:20 --> File loaded: /var/www/html/osstest/application/modules/master/models/Kawin_model.php
+INFO - 2017-11-24 14:47:20 --> Model Class Initialized
+DEBUG - 2017-11-24 14:47:20 --> File loaded: /var/www/html/osstest/application/modules/activity_log/models/Activity_log_model.php
+INFO - 2017-11-24 14:47:20 --> Model Class Initialized
+DEBUG - 2017-11-24 14:47:20 --> File loaded: /var/www/html/osstest/application/views/template/sidebar.php
+DEBUG - 2017-11-24 14:47:20 --> File loaded: /var/www/html/osstest/application/modules/employe/views/employe_list.php
+DEBUG - 2017-11-24 14:47:20 --> File loaded: /var/www/html/osstest/application/views/template/layout.php
+INFO - 2017-11-24 14:47:20 --> Final output sent to browser
+DEBUG - 2017-11-24 14:47:20 --> Total execution time: 0.0183
+INFO - 2017-11-24 14:47:20 --> Config Class Initialized
+INFO - 2017-11-24 14:47:20 --> Config Class Initialized
+INFO - 2017-11-24 14:47:20 --> Hooks Class Initialized
+DEBUG - 2017-11-24 14:47:20 --> UTF-8 Support Enabled
+INFO - 2017-11-24 14:47:20 --> Utf8 Class Initialized
+INFO - 2017-11-24 14:47:20 --> URI Class Initialized
+INFO - 2017-11-24 14:47:20 --> Router Class Initialized
+INFO - 2017-11-24 14:47:20 --> Output Class Initialized
+INFO - 2017-11-24 14:47:20 --> Security Class Initialized
+DEBUG - 2017-11-24 14:47:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 14:47:20 --> Input Class Initialized
+INFO - 2017-11-24 14:47:20 --> Language Class Initialized
+ERROR - 2017-11-24 14:47:20 --> 404 Page Not Found: /index
+INFO - 2017-11-24 14:47:20 --> Hooks Class Initialized
+DEBUG - 2017-11-24 14:47:20 --> UTF-8 Support Enabled
+INFO - 2017-11-24 14:47:20 --> Utf8 Class Initialized
+INFO - 2017-11-24 14:47:20 --> URI Class Initialized
+INFO - 2017-11-24 14:47:20 --> Router Class Initialized
+INFO - 2017-11-24 14:47:20 --> Output Class Initialized
+INFO - 2017-11-24 14:47:20 --> Security Class Initialized
+DEBUG - 2017-11-24 14:47:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-11-24 14:47:20 --> Input Class Initialized
+INFO - 2017-11-24 14:47:20 --> Language Class Initialized
+ERROR - 2017-11-24 14:47:20 --> 404 Page Not Found: /index
