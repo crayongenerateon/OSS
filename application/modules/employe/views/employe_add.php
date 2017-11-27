@@ -87,18 +87,28 @@ if (isset($employe)) {
 }
 ?>
 
+<style>
+.widget-user .widget-user-image>img {
+    width: 160px;
+    height: auto;
+    border: 3px solid #fff;
+}
+.img-circle {
+    border-radius: 80%;
+}
+
+img {
+    vertical-align: middle;
+}
+</style>
+
 <section class="content">
  <div class="row">              
 <div class="col-sm-10 col-md-12 main">
     <?php echo isset($alert) ? ' ' . $alert : null; ?>
     <?php echo validation_errors(); ?>
 
-    <div class="row page-header">
-        <div class="col-sm-9 col-md-6">
-            <h3 class="page-title" ><b><?php echo $operation; ?> Employe</b></h3>
-        </div>
-
-    </div>
+    
 
     <?php echo form_open_multipart(current_url()); ?>
 
@@ -124,15 +134,21 @@ if (isset($employe)) {
             <div class="widget-user-image">
               
               <?php if (!empty($employe['employe_images'])) { ?>
-                    <img src="<?php echo upload_url($employe['employe_images']) ?>" class="img-circle"  alt="User Avatar">
+                    <img src="<?php echo upload_url($employe['employe_images']) ?>"   class="img-circle"  alt="User Avatar">
                     <?php 
                 } else { ?>
-                    <img src="<?php echo base_url('media/custom/image/missing-image.png') ?>" class="img-circle"  alt="User Avatar">
+                    <img src="<?php echo base_url('media/custom/image/missing-image.png') ?>" height="160" width="160" class="img-circle"  alt="User Avatar">
                     <?php 
                 } ?>
             </div>
             <div class="box-footer">
-              <div class="row"><hr>
+              <div class="row">
+                  
+              <div class="row page-header">
+                <div class="col-sm-9 col-md-6">
+                    <h3 class="page-title" ><b><?php echo $operation; ?> Employe</b></h3>
+                </div>
+            </div>
 
                 <div class="col-sm-9 col-md-10">
                 
