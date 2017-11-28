@@ -44,7 +44,7 @@ class Itservice extends CI_Controller {
     // Add itservice_customer and Update
     public function add($id = NULL) {
         $this->load->library('form_validation');
-
+        $this->load->library('email');
         
 
         $this->form_validation->set_rules('itservice_issue', 'Masukan Keluhan Anda', 'required');    
@@ -75,6 +75,29 @@ class Itservice extends CI_Controller {
             $status = $this->Itservice_model->add($params);
 
             $this->upload_image($status);
+            $category = $this->Itservice_model->get_category(array('id' => $this->input->post('itservice_categories_id')));
+            $this->email->initialize(array(
+                'protocol' => 'smtp',
+                'smtp_host' => 'ssl://mx1.hostinger.co.id',
+                'smtp_user' => 'oss@rumahcg.com',
+                'smtp_pass' => 'qwerty13',
+                'smtp_port' => 465,
+                'mailtype' => 'html',
+                'charset' => 'utf-8', 
+                'wordwrap' => TRUE,
+                'crlf' => "\r\n",
+                'newline' => "\r\n"
+            ));
+            
+            
+            $this->email->to('adi@rumahcg.com, rahman@rumahcg.com');
+            $this->email->from('oss@rumahcg.com', 'OSS Admin');
+            $this->email->subject('IT Service');
+            $this->email->message('category :' . $category['itservice_category_name']
+                . '<br><hr>'
+                . 'Issue : ' . $this->input->post('itservice_issue'));
+            $this->email->send();
+            $data['error'] = $this->email->print_debugger();
 
             // activity log
             $this->Activity_log_model->add(
@@ -88,7 +111,9 @@ class Itservice extends CI_Controller {
             );
 
             $this->session->set_flashdata('success', $data['operation'] . ' Pengguna berhasil');
-            redirect('itservice/add');
+            //redirect('itservice/add');
+            $data['main'] = 'itservice/itservice_add';
+            $this->load->view('template/layout', $data);
         } else {
             // Edit mode
             if (!is_null($id)) {

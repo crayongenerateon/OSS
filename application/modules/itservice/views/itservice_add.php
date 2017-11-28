@@ -152,6 +152,9 @@ if (isset($itservice)) {
                 IP : <?php $ipaddress = $_SERVER['REMOTE_ADDR']; echo $ipaddress; ?> <br>
                 Hostname :  <?php $hostname = gethostbyaddr($_SERVER['REMOTE_ADDR']); echo $hostname; ?>
                 <p style="color:#9C9C9C;margin-top: 5px"><i>*) Field Wajib Diisi</i></p>
+                 <?php if (isset($error)) : ?>
+                    <?php echo $error?>
+                 <?php endif ?>
             </div>
 
         </div>
