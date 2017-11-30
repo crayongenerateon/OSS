@@ -122,12 +122,12 @@ img {
               <h5 class="widget-user-desc">
                 <?php
                 if (!empty($employe)) {
-                  
-                ?>
+
+                    ?>
                 <?php
-                    echo $employe['jabatan_name'] ;
-                }
-                ?>
+                echo $employe['jabatan_name'];
+            }
+            ?>
 
               </h5>
             </div>
@@ -409,7 +409,7 @@ img {
                 <input type="checkbox" class="flat-red"  name="employe_superior" value="1"   
                 <?php if ($inputSuperiorValue == 1) {
                     echo "checked";
-                    } ?> /> </br>
+                } ?> /> </br>
                 </div>
             </div>
 
@@ -473,7 +473,7 @@ img {
         
 </div>
 
-<?php if (isset($employe)): ?>
+<?php if (isset($employe)) : ?>
     <!-- Delete Confirmation -->
     <div class="modal fade" id="confirm-del">
         <div class="modal-dialog">
@@ -502,8 +502,9 @@ img {
                 $('#confirm-del').modal('show');
             });
         </script>
-    <?php }
-    ?>
+    <?php 
+}
+?>
 <?php endif; ?>
 
 <script type="text/javascript">

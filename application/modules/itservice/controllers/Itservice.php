@@ -75,6 +75,8 @@ class Itservice extends CI_Controller {
             $status = $this->Itservice_model->add($params);
 
             $this->upload_image($status);
+
+            //fitur Notifikasi email
             $category = $this->Itservice_model->get_category(array('id' => $this->input->post('itservice_categories_id')));
             $this->email->initialize(array(
                 'protocol' => 'smtp',
@@ -88,8 +90,6 @@ class Itservice extends CI_Controller {
                 'crlf' => "\r\n",
                 'newline' => "\r\n"
             ));
-            
-            
             $this->email->to('adi@rumahcg.com, rahman@rumahcg.com');
             $this->email->from('oss@rumahcg.com', 'OSS Admin');
             $this->email->subject('IT Service');

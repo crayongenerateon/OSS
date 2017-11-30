@@ -100,6 +100,9 @@ class User_admin extends CI_Controller {
             $params['role_itservice'] = $this->input->post('role_itservice');
             $params['role_master'] = $this->input->post('role_master');
             $params['role_log'] = $this->input->post('role_log');
+            $params['role_iventoryit'] = $this->input->post('role_iventoryit');
+            $params['role_useradmin'] = $this->input->post('role_useradmin');
+            $params['role_employe'] = $this->input->post('role_employe');
             
             $params['user_last_update'] = date('Y-m-d H:i:s');
             $params['user_email'] = $this->input->post('user_email');

@@ -206,7 +206,9 @@
             <p style="color:#9C9C9C;margin-top: 5px"><i>*) Field Wajib Diisi</i></p>
         </div>
         </div>
-        <?php echo form_close(); ?>
+        
+
+
         <div class="col-sm-9 col-md-3">
             <div class="form-group">
                 <button name="action" type="submit" value="save" class="btn btn-success"><i class="ion-checkmark"></i> Simpan</button>
@@ -226,6 +228,7 @@
                 <?php endif; ?>
             </div>
         </div>
+<?php echo form_close(); ?>
 
         <div id="myModal<?php echo $user['user_id']; ?>" class="modal fade" role="dialog">
           <div class="modal-dialog">

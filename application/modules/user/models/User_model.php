@@ -283,6 +283,18 @@ class User_model extends CI_Model {
         $this->db->set('role_log', $data['role_log']);
         
     }
+    if(isset($data['role_iventoryit'])) {
+        $this->db->set('role_iventoryit', $data['role_iventoryit']);
+        
+    }
+    if(isset($data['role_useradmin'])) {
+        $this->db->set('role_useradmin', $data['role_useradmin']);
+        
+    }
+    if(isset($data['role_employe'])) {
+        $this->db->set('role_employe', $data['role_employe']);
+        
+    }
         
     if (isset($data['user_id'])) {
        
@@ -314,6 +326,19 @@ if(isset($data['role_master'])) {
 
 if(isset($data['role_log'])) {
     $this->db->set('role_log', $data['role_log']);
+}
+
+if(isset($data['role_iventoryit'])) {
+    $this->db->set('role_iventoryit', $data['role_iventoryit']);
+        
+}
+if(isset($data['role_useradmin'])) {
+    $this->db->set('role_useradmin', $data['role_useradmin']);
+        
+}
+if(isset($data['role_employe'])) {
+    $this->db->set('role_employe', $data['role_employe']);
+        
 }
 
 if (isset($data['user_id'])) {
